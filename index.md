@@ -1,7 +1,8 @@
 Human Locomotion, Trade, Communication & Discovery
 
 Index: 
-** Introduction **
+
+**Introduction**
 * What is Blockchain 
 	How does it work, why is it important 
 * What is Bitcoin 
