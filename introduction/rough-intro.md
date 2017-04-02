@@ -33,7 +33,7 @@ briefs: *digital signatures, wallets, store of value, source of truth*
 	* They believe in the underlying technology.
 	Some people believe that cryptocurrencies are a natural progression for society.  They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will be commonplace, and used for everything from paying your electricity bill to purchasing food at a restaurant.
 	
-* What are some examples of cryptocurrencies?
+## What are some examples of cryptocurrencies?
   * **Bitcoin** 
     <br>Bitcoin is blockchain's first digital asset referred to as cryptocurrency. Its an innovative payment solution powered by blockchain technology. It acts as a peer to peer cash payment system and a storage of value with security built at its core. It was the first payment solution to solve the double-spend problem after the crash of 2008. Double-spending is the result of successfully spending some money more than once. Bitcoin, as seen on exchanges as (BTC) has a stock supply, generally called coins or tokens, of 21,000,000BTC which are divisible by 100M units per coin. Each unit is uniquely identifiable and programmable allowing users to assign custom properties to each unit. A unit can represent a USD, a share in a company, a KwH of energy, a digital certificate of ownership, 1,000 barrels of oil, loyalty credits or electoral votes. As of March 2017 each coin is worth $1,059 giving it a $17.2B market capitalization. Bitcoin leverages the blockchains open sourced codebase, referred to as an open API (application program interface) and created its own API allowing innovators to leverage its payment network for transacting and engineering new use cases.
   * **Ethereum**
