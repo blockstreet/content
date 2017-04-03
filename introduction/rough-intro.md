@@ -1,11 +1,11 @@
 # What is Cryptocurrency?
-Topics: **bitcoin, blockchain, decentralization, transactions**
-Briefs: *digital signatures, wallets, store of value, source of truth*
+- **Topics**: bitcoin, blockchain, decentralization, transactions
+- **Briefs**: digital signatures, wallets, store of value, source of truth
 
 ## Cryptocurrencies
 In 2008, a mysterious figure by the name "Satoshi Nakamoto" released a document describing a global digital currency that was controlled by no one individual, and instead shared amongst the population of the world on a system called the "Blockchain". This document spawned the first cryptocurrency "Bitcoin" that would eventually grow into hundreds of other cryptocurrencies.
 
-You may be familiar with Bitcoin already; you may have heard it was used on the "darkweb" or heard about it skyrocketing to over 50 times it's value in less than a year. A cyptocurrency's value is based on supply and demand: if more people want it and are willing to pay for it, its price goes up. If people don't want it, its price moves down. Similar to how if you wanted to make a purchase of a $1,000 laptop at a store with your debit card, the point-of-sale machine reads your card, determines your account information, then checks to see if you have enough money to make the purchase.
+You may be familiar with Bitcoin already; you may have heard it was used on the "darkweb" or heard about it skyrocketing to over 50 times it's value in less than a year. A cyptocurrency's value is based on supply and demand: if more people want it and are willing to pay for it, it's price goes up. If people don't want it, its price moves down. Similar to how if you wanted to make a purchase of a $1,000 laptop at a store with your debit card, the point-of-sale machine reads your card, determines your account information, then checks to see if you have enough money to make the purchase.
 
 Cryptocurrencies accomplish this by using a system called a "blockchain". Suppose there are two people, Alice and Bob, who want to make a transaction, using a cryptocurrency (like Bitcoin). In simple terms, Alice wants to send 3 bitcoins to Bob. Alice's transaction is digitally signed to prove it came from her wallet. To check if Alice has enough money for the transaction, we look at a list of every transaction to every wallet since the start of Bitcoin.
 
@@ -18,7 +18,7 @@ Let's imagine there is a community of people who use cryptocurrency to pay for p
 This system may seem simple but it has one glaring flaw; Bobby must be a trustworthy member of the community. If he makes a mistake calculating balances or acts maliciously, the system becomes flawed and unfair. This is what is called a "single source of truth" system, which is used in modern day banking. Through the application of "decentralization" we can achieve a system where the power is removed from Bobby and instead distributed amongst all members of the community.
 
 ## Decentralization
-A decentralized system is one where no individual in the network controls any significant portion of the power. Voting is one such system, where everyone in the community comes together to make a decision.
+A decentralized system is one where no individual in the network controls any significant portion of the something, whether that be power or the truth of truth. Voting is one such system, where everyone in the community comes together to make a decision without any one person having more opportunity to influence the outcome than any other person.
 
 #### Example
 Let's take the system we outlined in the previous example and apply a decentralized approach. In our new system, instead of all members of the community having to report their transactions to only Bobby, they instead tell every other member of the community about the transaction. The notebook that Bobby previous had control of has instead been duplicated so that every member has the same copy, and all transactions are kept up to date on everyone's notebooks at the same time.
