@@ -44,11 +44,13 @@ For most cryptocurrencies, there is a limited number of "coins" in circulation a
 #### Do they have intrinsic value?
 Well, yes and no. For example, Bitcoin can be seen as a "store of value", with its price being dictated by supply and demand. The more people that think bitcoins are worth something, the more people buy into it, and consequently the price goes up. Ethereum has intrinsic value because the blockchain provides the backbone for running "smart contracts", which can basically be a program of any kind. You can interact with these contracts by sending Eth. People who believe Ethereum is going to become more popular buy into it, and its price increases.
   
-#### Who's buying cryptocurrencies?
-People buy into cryptocurrencies for a few different reasons:
-* They want to make money off them by purchasing them when their price is low, and selling them when the price is high.
-This is similar to playing the stock market.  Cryptocurrencies are much more volatile, and can possibly gain or lose upwards of 20% in a single day.  This makes them an ideal target for people interested in day trading them to try to out perform the market.
-* They believe in the underlying technology.
+#### Who buys cryptocurrencies?
+There are a few reasons people buy cryptocurrencies.
+
+##### Day Trading
+They want to make money by purchasing a currency when the price is low, and selling it when the price is high. This is similar to playing the stock market. Cryptocurrencies are much more volatile however, and can possibly gain or lose upwards of 20% in a single day. This makes them an ideal target for those interested in day trading them to try to out perform the market.
+
+##### Belief in the technology
 Some people believe that cryptocurrencies are a natural progression for society. They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will be commonplace, and used for everything from paying your electricity bill to purchasing food at a restaurant.
 	
 ## What are some examples of cryptocurrencies?
