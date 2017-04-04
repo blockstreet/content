@@ -3,7 +3,7 @@
 - **Briefs**: digital signatures, wallets, store of value, source of truth
 
 ## Cryptocurrencies
-In 2008, a mysterious figure by the name "Satoshi Nakamoto" released a document describing a global digital currency that was controlled by no one individual, and instead shared amongst the population of the world on a system called the "Blockchain". This document spawned the first cryptocurrency "Bitcoin" that would eventually grow into hundreds of other cryptocurrencies.
+In 2008, a mysterious figure by the name "Satoshi Nakamoto" released a document describing a global digital currency as a store of value that was controlled by no one individual, and instead shared amongst the population of the world on a system called the "Blockchain". This document spawned the first cryptocurrency "Bitcoin" that would eventually grow into hundreds of other cryptocurrencies.
 
 You may be familiar with Bitcoin already; you may have heard it was used on the "darkweb" or heard about it skyrocketing to over 50 times it's value in less than a year. A cyptocurrency's value is based on supply and demand: if more people want it and are willing to pay for it, it's price goes up. If people don't want it, its price moves down. Similar to how if you wanted to make a purchase of a $1,000 laptop at a store with your debit card, the point-of-sale machine reads your card, determines your account information, then checks to see if you have enough money to make the purchase.
 
