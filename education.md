@@ -44,15 +44,18 @@ For most cryptocurrencies, there is a limited number of "coins" in circulation a
 #### Do they have intrinsic value?
 Well, yes and no. For example, Bitcoin can be seen as a "store of value", with its price being dictated by supply and demand. The more people that think bitcoins are worth something, the more people buy into it, and consequently the price goes up. Ethereum has intrinsic value because the blockchain provides the backbone for running "smart contracts", which can basically be a program of any kind. You can interact with these contracts by sending Eth. People who believe Ethereum is going to become more popular buy into it, and its price increases.
   
-#### Who buys cryptocurrencies?
-There are a few reasons people buy cryptocurrencies.
+## Who buys cryptocurrencies?
+The types of people who purchase cryptocurrencies are as diverse as you'd find in the stock market. There are many currencies, each of the top coins promising to solve existing shortcomings of the centralized systems in our modern day society, as well as create new applications only possible using blockchain technology.
 
-##### Day Trading
-They want to make money by purchasing a currency when the price is low, and selling it when the price is high. This is similar to playing the stock market. Cryptocurrencies are much more volatile however, and can possibly gain or lose upwards of 20% in a single day. This makes them an ideal target for those interested in day trading them to try to out perform the market.
+#### Day Traders
+Just like in the stock market, there are people who seek to profit from the flucuations in the price of cryptocurrencies. They purchase a currency when the price is low, and sell it when the price is high. However, many cryptocurrencies are far more volatile, and have the potential of gaining or losing upwards of 20% of their value in a single day. This makes for a very profitable outcome if a trader is able to time the market ups and downs.
 
-##### Belief in the technology
-Some people believe that cryptocurrencies are a natural progression for society. They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will be commonplace, and used for everything from paying your electricity bill to purchasing food at a restaurant.
-	
+#### Holders
+Some people believe that cryptocurrencies are a natural progression for society. They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will become common-place, and used for everything from paying your electricity bill to purchasing food at a restaurant. By purchasing now at a discounted price, they believe the value of their currency will exponentially increase with demand.
+
+#### Corporations
+Certain cryptocurrencies have drawn interest from enterprise corporations. Ethereum leads the pack in this area gaining the interest of large companies like Microsoft, Santander, and JP Morgan just to name a few. These companies will seek to migrate their existing inefficient systems over to blockchain technology to take advantage of the lightning fast speed and savings in operational costs.
+
 ## What are some examples of cryptocurrencies?
 ### Bitcoin
 Bitcoin is blockchain's first digital asset referred to as cryptocurrency. Its an innovative payment solution powered by blockchain technology. It acts as a peer to peer cash payment system and a storage of value with security built at its core. It was the first payment solution to solve the double-spend problem after the crash of 2008. Double-spending is the result of successfully spending some money more than once. Bitcoin, as seen on exchanges as (BTC) has a stock supply, generally called coins or tokens, of 21,000,000BTC which are divisible by 100M units per coin. Each unit is uniquely identifiable and programmable allowing users to assign custom properties to each unit. A unit can represent a USD, a share in a company, a KwH of energy, a digital certificate of ownership, 1,000 barrels of oil, loyalty credits or electoral votes. As of March 2017 each coin is worth $1,059 giving it a $17.2B market capitalization. Bitcoin leverages the blockchains open sourced codebase, referred to as an open API (application program interface) and created its own API allowing innovators to leverage its payment network for transacting and engineering new use cases.
