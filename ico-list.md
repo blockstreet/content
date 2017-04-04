@@ -56,28 +56,28 @@ We have created a safe, strong financial tool, specifically designed to be used 
 #### Internet of coins
 Internet of Coins is an environment for personal finance. As a decentralized platform it enables an optimally inclusive financial network, interlinking all digital forms of value. It allows you to trade digital assets and currencies peer to peer, with an easy to use interface and the opportunity to earn fees by participating as an allocator.
 https://coinstorm.net/en#part1
-Symbol: OMG
-Status: ICO coming
+- Symbol: OMG
+- Status: ICO coming
 Concept: Omise GO is an ewallet platform for payments, cross-border remittances, rewards points, and much more.
 https://omg.omise.co/
 https://youtu.be/neCaG0LoKQ0
 
 #### BAT Token 
 https://basicattentiontoken.org/
-Symbol: BAT
-Status: ICO coming
+- Symbol: BAT
+- Status: ICO coming
 Concept: Basic Attention Token improves the efficiency of digital advertising by creating a new unit of exchange between publishers, advertisers and users. It all happens on the Ethereum blockchain. The value of the token is based on user attention, which simply means a person’s focused mental engagement.
 
 #### Blockchain Capital 
 http://blockchain.capital/
-Symbol - BCAP
-Status ICO upcoming April 10, 2017
+- Symbol - BCAP
+- Status ICO upcoming April 10, 2017
 Concept: We are disrupting our own industry: the illiquid, insider-only venture capital market. Blockchain Capital is the leading venture capital investment firm focused on blockchain technology companies. The time has come to practice what we preach, so we are creating the world’s first Digital Liquid Venture Fund. The Fund will disrupt the traditional VC market and create the first of its kind “Digital LP” investment vehicle:
 
 #### SkyCoin
 http://skycoin.net/
-Symbol: n/a
-Status: Upcoming ICO 
+- Symbol: n/a
+- Status: Upcoming ICO 
 Concept: Skycoin is a next-generation cryptocurrency. Skycoin addresses those issues and limitations of Bitcoin that can not be resolved due to how Bitcoin is designed, implemented and deployed.
 Skycoin is developed to satisfy the need for a medium of exchange for those who want to keep what they produce. Skycoin is designed for total availability, i.e. to run well even on budget hardware, slow networks, and under continuous cyber attacks.
 Skycoin is what Bitcoin would look like today if Bitcoin creators could go back to the past and re-design Bitcoin with the knowledge of future.
@@ -85,13 +85,13 @@ Skycoin is what Bitcoin would look like today if Bitcoin creators could go back 
 
 #### Aeternity
 http://www.aeternity.com/
-Symbol: N/a
-Status: Ongoing ICO. End time May 2nd, 
+- Symbol: N/a
+- Status: Ongoing ICO. End time May 2nd, 
 Concept: Scalable smart contracts interfacing with real world data. It is designed to deliver unmatched efficiency, transparent governance, global scalability and low transaction fee’s
 
 
 #### Sphere
 http://www.sphre.co/cs/ 
-Symbol: XID
-Status: Ongoing 
+- Symbol: XID
+- Status: Ongoing 
 Concept: An information technology firm focused on the development of more secured online services by applying new insights and application design to legacy systems. AIR, their smart contract based platform is a secure management solution and monetization of digital identities, will make it easier to utilize advancements in cryptography to conduct digital identity based transactions with precision while providing a fairer distribution of identity monetization benefits.
