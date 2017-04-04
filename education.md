@@ -34,24 +34,22 @@ Thanks to modern day technology, all of this informing, book-keeping and verific
 
 
 ## What makes a cryptocurrency worth anything at all?
-  You may be wondering how bits on the computer can possibly be worth anything at all.  Lets break it down using familiar examples.
-  The US Dollar: a currency used to buy things in the United States.  A dollar is simply a piece of paper with some numbers on it.  What makes it worth anything more than a cryptocurrency?  You may be thinking, "isn't the dollar backed by gold?", but you'd be wrong.  It hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm).  But for the sake of simplicity, lets pretend we took a small trip back in time.  Gold has **intrinsic value**.  It can be made into jewelry, it's conductive, so it can be used in electrical applications(such as your computer or smartphone) yet resists oxidation, unlike copper.  There is also a limited amount of gold; while you technically can make gold, the process is too expensive to make it worthwhile to sell it afterwards.  These factors contribute to why gold has value.
-  But what about cryptocurrencies?  
-* Are they a limited resource?
+You may be wondering how bits on the computer can possibly be worth anything at all. Lets break it down using familiar examples.
 
-  For most cryptocurrencies, there is a limited number of "coins" in circulation at any given time.  You can't simply "create" a bitcoin and add it to your wallet, due to complex cryptography and transaction logging.  These coins are currently created by "miners" who form the backbone of any cyptocurrency using Proof of Work.  Proof of Stake is a new concept that is going to be implemented into Ethereum so mining won't be necessary anymore.
+**The US Dollar**: a currency used to buy things in the United States. A dollar is simply a piece of paper with some numbers on it. What makes it worth anything more than a cryptocurrency? You may be thinking, "isn't the dollar backed by gold?", but you'd be wrong. It hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm). But for the sake of simplicity, lets pretend we took a small trip back in time. Gold has **intrinsic value**. It can be made into jewelry, it's conductive, so it can be used in electrical application s(such as your computer or smartphone) yet resists oxidation, unlike copper. There is also a limited amount of gold; while you technically can make gold, the process is too expensive to make it worthwhile to sell it afterwards. These factors contribute to why gold has value. But what about cryptocurrencies?
+
+#### Are they a limited resource?
+For most cryptocurrencies, there is a limited number of "coins" in circulation at any given time. You can't simply "create" a bitcoin and add it to your wallet, due to complex cryptography and transaction logging. These coins are currently created by "miners" who form the backbone of any cyptocurrency using Proof of Work. Proof of Stake is a new concept that is going to be implemented into Ethereum so mining won't be necessary anymore.
   
-* Do they have intrinsic value?
-
-  Well, yes and no.  For example, Bitcoin can be seen as a "store of value", with its price being dictated by supply and demand.  The more people that think bitcoins are worth something, the more people buy into it, and consequently the price goes up.  Ethereum has intrinsic value because the blockchain provides the backbone for running "smart contracts", which can basically be a program of any kind.  You can interact with these contracts by sending Eth.  People who believe Ethereum is going to become more popular buy into it, and its price increases.
+#### Do they have intrinsic value?
+Well, yes and no. For example, Bitcoin can be seen as a "store of value", with its price being dictated by supply and demand. The more people that think bitcoins are worth something, the more people buy into it, and consequently the price goes up. Ethereum has intrinsic value because the blockchain provides the backbone for running "smart contracts", which can basically be a program of any kind. You can interact with these contracts by sending Eth. People who believe Ethereum is going to become more popular buy into it, and its price increases.
   
-* Who's buying cryptocurrencies?
-
-  People buy into cryptocurrencies for a few different reasons.
-  	* They want to make money off them by purchasing them when their price is low, and selling them when the price is high.
-	This is similar to playing the stock market.  Cryptocurrencies are much more volatile, and can possibly gain or lose upwards of 20% in a single day.  This makes them an ideal target for people interested in day trading them to try to out perform the market.
-	* They believe in the underlying technology.
-	Some people believe that cryptocurrencies are a natural progression for society.  They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will be commonplace, and used for everything from paying your electricity bill to purchasing food at a restaurant.
+#### Who's buying cryptocurrencies?
+People buy into cryptocurrencies for a few different reasons:
+* They want to make money off them by purchasing them when their price is low, and selling them when the price is high.
+This is similar to playing the stock market.  Cryptocurrencies are much more volatile, and can possibly gain or lose upwards of 20% in a single day.  This makes them an ideal target for people interested in day trading them to try to out perform the market.
+* They believe in the underlying technology.
+Some people believe that cryptocurrencies are a natural progression for society. They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will be commonplace, and used for everything from paying your electricity bill to purchasing food at a restaurant.
 	
 ## What are some examples of cryptocurrencies?
 ### Bitcoin
