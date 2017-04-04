@@ -1,6 +1,9 @@
 # What is Cryptocurrency?
-- **Topics**: bitcoin, blockchain, decentralization, transactions
-- **Briefs**: digital signatures, wallets, store of value, source of truth
+*This is a constantly expanding portion of the site that will grow in both content and clarity over time.*
+
+**Topics**: bitcoin, blockchain, decentralization, transactions
+
+**Briefs**: digital signatures, wallets, store of value, source of truth
 
 ## Cryptocurrencies
 In 2008, a mysterious figure by the name "Satoshi Nakamoto" released a document describing a global digital currency as a store of value that was controlled by no one individual, and instead shared amongst the population of the world on a system called the "Blockchain". This document spawned the first cryptocurrency "Bitcoin" that would eventually grow into hundreds of other cryptocurrencies.
