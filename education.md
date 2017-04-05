@@ -44,7 +44,7 @@ For most cryptocurrencies, there is a limited number of "coins" in circulation a
 Well, yes and no. For example, Bitcoin can be seen as a "store of value", with its price being dictated by supply and demand. The more people that think bitcoins are worth something, the more people buy into it, and consequently the price goes up. Ethereum has intrinsic value because the blockchain provides the backbone for running "smart contracts", which can basically be a program of any kind. You can interact with these contracts by sending Eth. People who believe Ethereum is going to become more popular buy into it, and its price increases.
   
 ## Who buys cryptocurrencies?
-The types of people who purchase cryptocurrencies are as diverse as you'd find in the stock market. There are many currencies, each of the top coins promising to solve existing shortcomings of the centralized systems in our modern day society, as well as create new applications only possible using blockchain technology.
+The types of people who purchase cryptocurrencies are as diverse as you'd find in the stock market. There are many currencies, each promising to solve existing shortcomings of the centralized systems in our modern day society, or creating new applications only possible using blockchain technology.
 
 #### Day Traders
 Just like in the stock market, there are people who seek to profit from the flucuations in the price of cryptocurrencies. They purchase a currency when the price is low, and sell it when the price is high. However, many cryptocurrencies are far more volatile, and have the potential of gaining or losing upwards of 20% of their value in a single day. This makes for a very profitable outcome if a trader is able to time the market ups and downs.
