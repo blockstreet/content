@@ -50,7 +50,7 @@ The types of people who purchase cryptocurrencies are as diverse as you'd find i
 Just like in the stock market, there are people who seek to profit from the flucuations in the price of cryptocurrencies. They purchase a currency when the price is low, and sell it when the price is high. However, many cryptocurrencies are far more volatile, and have the potential of gaining or losing upwards of 20% of their value in a single day. This makes for a very profitable outcome if a trader is able to time the market ups and downs.
 
 #### Holders
-Some people believe that cryptocurrencies are a natural progression for society. They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will become common-place, and used for everything from paying your electricity bill to purchasing food at a restaurant. By purchasing now at a discounted price, they believe the value of their currency will exponentially increase with demand.
+Some people believe that cryptocurrencies are a natural progression for the way society does online banking. They believe that eventually, cryptocurrencies like Bitcoin will become common-place, and used for everything from paying your electricity bill to purchasing food at a restaurant. By purchasing now at a discounted price, they believe the value of their currency will increase as adoption increases.
 
 #### Corporations
 Certain cryptocurrencies have drawn interest from enterprise corporations. Ethereum leads the pack in this area gaining the interest of large companies like Microsoft, Santander, and JP Morgan just to name a few. These companies will seek to migrate their existing inefficient systems over to blockchain technology to take advantage of the lightning fast speed and savings in operational costs.
