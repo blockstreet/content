@@ -17,7 +17,7 @@ Let's imagine there is a community of people who use cryptocurrency to pay for p
 This system may seem simple but it has one glaring flaw; Carl must be a trustworthy member of the community. If he makes a mistake calculating balances or acts maliciously, the system becomes flawed and unfair. This is what is called a "single source of truth" system, which is used in modern day banking. Through decentralization, we can allow everyone in the community to have an up-to-date **big notebook of transactions** so no one has to trust any one member of the community.
 
 ## Decentralization
-A decentralized system is one where no individual in the network controls any significant portion of the something, whether that be power or the source of truth. Voting is one such system, where everyone in the community comes together to make a decision without any one person having more opportunity to influence the outcome than any other person.
+A decentralized system is one where no one entity is relied upon to act as a singular source of truth.  In a truly decentralized system, every person has access to every bit of information that is available.  Think of it like playing poker at a table where any player can see the chips that every other player has.  Most cryptocurrencies are based on decentralized systems.
 
 #### Example
 Let's take the system we outlined in the previous example and apply a decentralized approach. In our new system, instead of all members of the community having to report their transactions to only Carl, they instead tell every other member of the community about the transaction. Now every member of the community has a **big notebook of transactions**, and whenever a trade happens, everyone writes down the details.  
