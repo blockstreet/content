@@ -17,7 +17,7 @@ Every time you see the word "blockchain", just replace it with the phrase"**big 
 This system may seem simple but it has one flaw; Alice must be a trustworthy member of the community. If he makes a mistake calculating balances or acts maliciously, the system becomes unfair. That's because this is an exmaple of a "single source of truth" system, much like what is used in modern day banking.
 
 ## Decentralization
-A decentralized system is one where no individual in the network controls any significant portion of the something, whether that be power or the source of truth. Voting is one such system, where everyone in the community comes together to make a decision without any one person having more opportunity to influence the outcome than any other person.
+A decentralized system is one where no one entity is relied upon to act as a singular source of truth.  In a truly decentralized system, every person has access to every bit of information that is available.  Think of it like playing poker at a table where any player can see the chips that every other player has.  Most cryptocurrencies are based on decentralized systems.
 
 #### Example
 Let's take the system we outlined in the previous example and apply a decentralized approach. In our new system, instead of all members of the community having to report their transactions to only Alice, they instead tell every other member of the community about the transaction. Now every member of the community has a **big notebook of transactions**, and whenever a trade happens, everyone writes down the details.  
