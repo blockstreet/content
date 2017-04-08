@@ -1,14 +1,14 @@
 # [What is Cryptocurrency?](#what-is-cryptocurrency)
 ***Note:** This is a constantly expanding portion of the site that will grow in both content and clarity over time.*
 
-[## Cryptocurrencies](#cryptocurrencies)
+## [Cryptocurrencies](#cryptocurrencies)
 In 2008, a person (or group of people) under the pseudonym "Satoshi Nakamoto" released a document describing a global digital currency system controlled by no one entity, but is instead controlled by every user of the system via a technology he called a "Blockchain". This document spawned the first cryptocurrency "Bitcoin", but would eventually be the inspiration for hundreds of other cryptocurrencies.
 
 You may be familiar with Bitcoin already; you may have heard that it skyrocked to over 50 times it's original value in less than a year, or seen a headline claiming that people use it to pay for things online. A cyptocurrency's value is based solely on supply and demand.  A bitcoin is only worth what another person is willing to pay for it, so if lots of people want it, it's price goes up. If people don't want it, its price moves down.
 
 How can you pay for something with a cryptocurrency? Similar to using a debit card, when you try to buy something, the system will make sure you have enough money in your account, and if it does, it will deduct that amount from your account and add it to whoever you are trying to pay. Cryptocurrencies accomplish this by using a system called a "blockchain", which is basically a ledger. Suppose there are two people, Alice and Bob, who want to make a transaction using a cryptocurrency (like Bitcoin). Alice submits a request to pay Bob, which she signs with a secret key (more on that later but for now suffice it to say that this ensures that the request actually came from Alice).  This request is sent to every user of the blockchain, so that they can verify Alice has enough money to pay Bob.  If she does, every user updates their copy of the blockchain by subtracting the amount from Alice's account, and adding it to Bob's.  The cool thing is that all of this checking and updating of the blockchain is done automatically, so you don't actually have to do any extra work!
 
-[## Blockchains](#blockchains)
+## [Blockchains](#blockchains)
 We've referred to the term "blockchain" before, so you might be wondering what it is. A blockchain is the underlying technology that allows cryptocurrencies to work. It is essentially a record of all the transactions that have ever been made between people on the network. By looking at this ledger, you can tell how much money any individual person has.
 
 #### Example
@@ -32,7 +32,7 @@ While the decentralized approach from the above example may seem like a large im
 Thanks to modern day technology, all of this informing, book-keeping and verification can be done quickly and automatically by a user's computer. Given the the ever increasing speed at which computers can process data, the transactions and record-keeping are nearly instant. This theoretically allows for the system to scale to the population of the world, instead of the small community.
 
 
-[## What makes it valuable?](#what-makes-it-valuable)
+## [What makes it valuable?](#what-makes-it-valuable)
 You may be wondering how bits on the computer can possibly be worth anything at all. Lets break it down using a familiar example.
 
 **The US Dollar**: a currency used to buy things in the United States. A dollar is simply a piece of paper with some numbers on it. What makes it worth anything more than a cryptocurrency? You may be thinking, "isn't the dollar backed by gold?", but you'd be wrong. It hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm). But for the sake of simplicity, lets pretend we took a small trip back in time. Gold has **intrinsic value**. It can be made into jewelry, it's conductive, so it can be used in electrical application (such as your computer or smartphone) yet resists oxidation, unlike copper. There is also a limited amount of gold; while you technically can make gold, the amount of money it costs to make gold is more than the amount of money you could get by selling the created gold. These factors contribute to why gold has value. But what about cryptocurrencies?
@@ -43,7 +43,7 @@ For most cryptocurrencies, there is a limited number of "coins" that can be in c
 #### Do they have intrinsic value?
 Well, yes and no. For example, Bitcoin can be seen as a "store of value", with its price being dictated by supply and demand. The more people that think bitcoins are worth something, the more people buy into it, and consequently the price goes up. Other forms of cryptocurrencies may have intrinsic value because their blockchains provide the capability to run "smart contracts", which are basically a list of actions that run according to a pre-determined plan. Smart contracts are a relatively new concept, but they are believed to provide safe ways of ensuring that two or more parties hold up their end of a bargain. For instance, a smart contract could be made to automatically pay the pizza company when the delivery man drops off the pizza.  If the pizza never arives, the company never gets paid, but if the pizza does arive, the customer cannot take the pizza and refuse to pay.
   
-[## Who buys cryptocurrencies?](#who-buys-cryptocurrencies)
+## [Who buys cryptocurrencies?](#who-buys-cryptocurrencies)
 The types of people who purchase cryptocurrencies are as diverse as you'd find in the stock market. There are many currencies, each promising to solve existing shortcomings of the centralized systems in our society, or create new applications only possible using blockchain technology.
 
 #### Day Traders
@@ -55,7 +55,7 @@ Some people believe that cryptocurrencies are a natural progression for the way 
 #### Corporations
 Certain cryptocurrencies have drawn interest from enterprise corporations. A cryptocurrency called Ethereum leads the pack in this area gaining the interest of large companies like Microsoft, Santander, and JP Morgan (to name a few). These companies will seek to utilize blockchain technology to make certain operations more efficient and take advantage of the lightning fast speed, resulting in savings of operational costs.
 
-[## What are some examples of cryptocurrencies?](#what-are-some-examples-of-cryptocurrencies)
+## [What are some examples of cryptocurrencies?](#what-are-some-examples-of-cryptocurrencies)
 #### Bitcoin
 Bitcoin is blockchain's first digital asset referred to as cryptocurrency. Its an innovative payment solution powered by blockchain technology. It acts as a peer to peer cash payment system and a storage of value with security built at its core. It was the first payment solution to solve the double-spend problem after the crash of 2008. Double-spending is the result of successfully spending some money more than once. Bitcoin, as seen on exchanges as (BTC) has a stock supply, generally called coins or tokens, of 21,000,000BTC which are divisible by 100M units per coin. Each unit is uniquely identifiable and programmable allowing users to assign custom properties to each unit. A unit can represent a USD, a share in a company, a KwH of energy, a digital certificate of ownership, 1,000 barrels of oil, loyalty credits or electoral votes. As of March 2017 each coin is worth $1,059 giving it a $17.2B market capitalization. Bitcoin leverages the blockchains open sourced codebase, referred to as an open API (application program interface) and created its own API allowing innovators to leverage its payment network for transacting and engineering new use cases.
 
