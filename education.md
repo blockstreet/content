@@ -26,7 +26,7 @@ This approach helps to prevent the issue where Alice makes an error calculating 
 
 Another important benefit of this approach is that if a member of the community loses their notebook, they can simply retrieve a copy of anyone else's notebook and rejoin the network. This prevents an attacker from taking down the financial network unless they can simulataneously destroy everyone's notebook (which is hard to do when the community is large).
 
-## Efficiency
+## [Efficiency](#efficiency)
 While the decentralized approach from the above example may seem like a large improvement from the initial centralized approach we started with, you might think "Hmm, having to tell every single person about every transaction could get hectic. Wouldn't this system be slow?" The fact that a member of the community has to tell everyone whenever they want to make a transaction seems like an inefficient way of doing things.
 
 Thanks to modern day technology, all of this informing, book-keeping and verification can be done quickly and automatically by a user's computer. Given the the ever increasing speed at which computers can process data, the transactions and record-keeping are nearly instant. This theoretically allows for the system to scale to the population of the world, instead of the small community.
