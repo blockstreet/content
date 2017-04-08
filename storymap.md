@@ -16,7 +16,7 @@ A digital signature performs the same function on computers that a hand-written 
 Private and public keys are the building blocks for digial signatures, and their names give a pretty good indication as to how they are used.  A private key is a key that you keep hidden from everybody else; you use your private key to digitally sign something.  A public key is a key that you share with the entire world; other people use your public key to verify that your digial signature is actually yours.
 
 ## Digital Wallet
-A digital wallet is the cryptocurrency equivalent to a bank account.  Digital wallets have unqiue addresses to identify them by, similar to an account number and routing number.
+A digital wallet is the cryptocurrency equivalent to a bank account.  Digital wallets have unqiue addresses to identify them, similar to an account number and routing number.
 
 ## Analogy Time
 Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will make appearances later on.  On the left Alice pays Bob via check, on the right she pays him via crytocurrency
