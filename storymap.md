@@ -1,6 +1,4 @@
-Per the hangouts discussion, I want to see what a "storytime" description of CC and BC look like.
-
-## Introduction
+# Introduction
 In 2008, a person (or group of people) under the pseudonym "Satoshi Nakamoto" released a paper explaining a set of rules for a digital currency controlled by its users, rather than a company or a government. This paper led to the first major cryptocurrency "Bitcoin", and inspired hundreds of other cryptocurrencies.  Let's explore the ideas of blockchain and cryptocurrency by comparing them to more familiar ideas.
 
 ## Cryptocurrency
@@ -36,3 +34,12 @@ Let's consider the scenario where a person (Alice) owes another person (Bob) $10
 In the left hand column, we are putting a lot of trust into the bank.  If the bank makes a mistake, decides to be a jerk, or loses its data somehow, anyone who put their trust in the bank could lose their money.  That's because in the end, the bank gets the final say; if the bank says you only have $5, you only have $5.
 
 In the right hand column, all of the records are copied by every member of the neighborhood.  If Alice lies and says that she has more money than she really does, Bob, Carl, and Dora will know that she is lying.  They will all get together and come to an agreement on how much money each person has.  But what if Carl's **giant notebook** is destroyed somehow?  Because everybody has a copy of the same **giant notebook**, he can ask Alice, Bob, or Dora if he can make a copy of theirs, so he can get his back.
+
+# Title???
+Now that we have seen things in their most basic form, let's go a little bit deeper into how things work.
+
+## Hashes
+You can think of a hash as a fingerprint.  Everything on a computer has its own fingerprint, so if two things have the same hash, you know that they are copies of each other.  This is really useful because you can use them to make sure everybody's **giant notebook** is the same.  Instead of comparing **giant notebooks**, you can compare really small fingerprints.  If they match, you know that the **giant notebooks** match.
+
+## Value
+We learned above that people buy and sell with **online money** using coins, but what makes a coin worth regular money?  Just like buying a phone, a car, or a house, the more people want something, the more money they are willing to pay for it.  If lots of people want Bitcoin coins, the price of each coin will go up.  Even though we might not notice it, this also true with dollars, euros, and pesos.  Every day the value of the dollar goes up and down by really small amounts based on how much people around the world want to use dollars to buy things.   
