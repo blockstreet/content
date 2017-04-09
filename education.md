@@ -5,31 +5,36 @@
 In 2008, a person (or group of people) under the name "Satoshi Nakamoto" released a paper describing a global digital currency system controlled by every user of the system by using a "Blockchain". This paper spawned the first cryptocurrency "Bitcoin", and inspired for hundreds of other cryptocurrencies.
 
 ## [Blockchains](#blockchains)
-We've referred to the term "blockchain" before, so you might be wondering what it is. A blockchain is the underlying technology that allows cryptocurrencies to work. It is a record of all the transactions that have ever been made between people on the network. By looking at this ledger(blockchain), you can tell how much money any individual person has.
+We've said the term "blockchain" before, so you might be wondering what it is. A blockchain is the underlying technology that allows cryptocurrencies to work. It is a record of all the transactions that have ever been made between people on the network. By looking at this ledger(blockchain), you can tell how much money any individual person has.
+
+### Useful Terms
+There are a few terms you'll need to know to understand how transactions work on a blockchain. You'll need to know about **digital signatures**, **public and private keys**, and **digital wallets**.
+
+#### Digital Signature
+A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Whenever you see "digital signature", just think **computer signature**.
+
+#### Private and Public Keys
+Private and public keys are the building blocks for **computer signatures**, and their names help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **computer signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **computer signature** is actually yours.
+
+#### Digital Wallet
+A digital wallet is basically the same thing as a bank account.  Digital wallets have unique addresses to identify them, similar to a checking account's account number and routing number.
+
+#### [Decentralization]
+A decentralized system is one where no one person is the source of truth.  In a decentralized system, every person has access to every bit of information that is available.  Think of it like playing poker at a table where any player can see the chips that every other player has.  Most cryptocurrencies are based on decentralized systems.
 
 ## [Analogy Time](#analogy)
 Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will make appearances later on.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency
 
 | Check | Cryptocurrency |
 | --- | --- |
-| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her wallet address wants to send $10 worth of coins to Bob's wallet address |
-| Alice signs the check in cursive, using a pen | Alice digitally signs her note using her private key |
-| Alice gives the check to Bob | Alice posts the note somewhere that everyone can see |
-| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's public key to verify that the note was written by Alice |
+| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her **digital wallet** address wants to send $10 worth of coins to Bob's wallet address |
+| Alice signs the check in cursive, using a pen | Alice uses her **digital signature** to sign her note using her **private key** |
+| Alice gives the check to Bob | Alice posts the note on the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) where everyone can see |
+| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's **public key** to verify that the note was written by Alice |
 | Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) to make sure that Alice has at least $10 worth of coins |
 | If Alice has enough money, $10 is deducted from her account and added to Bob's account.  If not, the she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora note in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins were deducted from her account and added to Bob's account.  If not, Alice is told she doesn't have enough money |
 
-One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank.  If the bank makes a mistake, decides to be a jerk, or loses its data somehow, anyone who put their trust in the bank could lose their money.  In the right hand column, all of the records are copied by every member of the neighborhood.  If Alice tries to claim that she has more money than she really does, Bob, Carl, and Dora will know that she is lying.  If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is destroyed somehow, he can simply ask Alice, Bob, or Dora to show him their copy, and Carl can recover his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**).
-
-## [Decentralization](#decentralization)
-A decentralized system is one where no one person is the source of truth.  In a truly decentralized system, every person has access to every bit of information that is available.  Think of it like playing poker at a table where any player can see the chips that every other player has.  Most cryptocurrencies are based on decentralized systems.
-
-#### Example
-Let's take the system we outlined in the previous example and apply a decentralized approach. In our new system, instead of all members of the community having to report their transactions to only Alice, they instead tell every other member of the community about the transaction. Now every member of the community has a **<lookup key="notebook">big notebook of transactions</lookup>**, and whenever a trade happens, everyone writes down the details.  
-
-This approach helps to prevent the issue where Alice makes an error calculating balances or (even worse) acts maliciously and embezzles money. In our new (decentralized) system, if Alice tries to change her notebook to claim she has more money than she really does, her notebook will not match anyone else's copy. As a group, the rest of the community can make sure that nobody is trying to cheat. With enough people holding **<lookup key="notebook">big notebooks of transactions</lookup>**, it becomes extremely hard to cheat the system.
-
-Another important benefit of this approach is that if a member of the community loses their notebook, they can simply retrieve a copy of anyone else's notebook and rejoin the network. This prevents an attacker from taking down the financial network unless they can simultaneously destroy everyone's notebook (which is hard to do when the community is large).
+One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank.  If the bank makes a mistake, decides to be a jerk, or loses its data somehow, anyone who put their trust in the bank could lose their money.  In the right hand column, all of the records are copied by every member of the neighborhood.  If Alice tries to claim that she has more money than she really does, Bob, Carl, and Dora will know that she is lying.  If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is destroyed somehow, he can simply ask Alice, Bob, or Dora to show him their copy, and Carl can recover his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**), because they all have the same information.
 
 ## [Efficiency](#efficiency)
 While the decentralized approach from the above example may look like an improvement from the initial centralized approach we started with, you might think "Hmm, having to tell every single person about every transaction could get messy. Wouldn't this system be slow?" A member of the community telling everyone whenever they want to make a transaction seems like an inefficient way of doing things.
