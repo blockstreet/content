@@ -37,9 +37,9 @@ Let's consider the scenario where a person (Alice) owes another person (Bob) $10
 One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank. If the bank makes a mistake, decides to be a jerk, or somehow forgets how much money people have, anyone who trusted in the bank could lose their money. In the right hand column, all of the records are copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does, Bob, Carl, and Dora will know that she is lying. Or if Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) back.
 
 ## [Efficiency](#efficiency)
-While the decentralized approach from the above example may look like an improvement from the initial centralized approach we started with, you might think "Hmm, having to tell every single person about every transaction could get messy. Wouldn't this system be slow?" A member of the community telling everyone whenever they want to make a transaction seems like an inefficient way of doing things.
+Even though the decentralized steps from the above example look better than the way that uses a bank, you might think "If I have to tell every person about every transaction, that could take a long time. Wouldn't that make things really slow?".
 
-Thanks to technology, all of this informing, book-keeping and verification can be done quickly and automatically by a user's computer. Given the ever increasing speed at which computers can process data, the transactions and record-keeping are nearly instant. This can allow the system to scale to worldwide, instead of the small community.
+Thanks to computer programs, all of this can be done quickly and automatically without you ever needing to do anything. Since computers are getting faster all the time, Alice can do all of the steps in the right hand column above in less than a second!
 
 
 ## [What makes it valuable?](#what-makes-it-valuable)
