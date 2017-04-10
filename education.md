@@ -20,7 +20,7 @@ Private and public keys are the building blocks for **computer signatures**, and
 A digital wallet is basically the same thing as a bank account.  Digital wallets have unique addresses to identify them, similar to a checking account's account number and routing number.
 
 #### Decentralization
-A decentralized system is one where no one person is the source of truth.  In a decentralized system, every person has access to every bit of information that is available.  Think of it like playing poker at a table where any player can see the chips that every other player has.  Most cryptocurrencies are based on decentralized systems.
+If a system is decentralized, that means that every person in the system knows everything about it. Think of it like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if you try to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.
 
 ## [Analogy Time](#analogy)
 Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will make appearances later on.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency
