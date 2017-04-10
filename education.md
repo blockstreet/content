@@ -2,7 +2,7 @@
 ***Note:** This is a constantly expanding portion of the site that will grow in both content and clarity over time.*
 
 ## [Cryptocurrencies](#cryptocurrencies)
-In 2008, a person (or group of people) under the name "Satoshi Nakamoto" released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also created the first cryptocurrency "Bitcoin", and inspired for hundreds of other cryptocurrencies.
+In 2008, a person (or group of people) under the name "Satoshi Nakamoto" released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also created the first cryptocurrency "Bitcoin", and inspired hundreds of other cryptocurrencies.
 
 ## [Blockchains](#blockchains)
 We've said the term "blockchain" before, so you might be wondering what it is. A blockchain is the underlying technology that allows cryptocurrencies to work. It is a record of all the transactions that have ever been made between people on the network. By looking at this ledger(blockchain), you can tell how much money any individual person has.
