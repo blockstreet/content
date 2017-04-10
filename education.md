@@ -8,13 +8,13 @@ In 2008, a person (or group of people) under the name "Satoshi Nakamoto" release
 We've said the term "blockchain" before, so you might be wondering what it is. A blockchain is the underlying technology that allows cryptocurrencies to work. It is a record of all the transactions that have ever been made between people on the network. By looking at this ledger(blockchain), you can tell how much money any individual person has.
 
 ### Useful Terms
-There are a few terms you'll need to know to understand how transactions work on a blockchain. You'll need to know about **digital signatures**, **public and private keys**, and **digital wallets**.
+There are a few things you'll need to know to understand how transactions work on a blockchain. You'll need to know about **digital signatures**, **private keys**, **public keys**, and **digital wallets**.
 
 #### Digital Signature
 A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Whenever you see "digital signature", just think **computer signature**.
 
 #### Private and Public Keys
-Private and public keys are the building blocks for **computer signatures**, and their names help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **computer signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **computer signature** is actually yours.
+Private and public keys are the building blocks for **computer signatures**, and their names will help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **computer signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **computer signature** is actually yours.
 
 #### Digital Wallet
 A digital wallet is basically the same thing as a bank account.  Digital wallets have unique addresses to identify them, similar to a checking account's account number and routing number.
