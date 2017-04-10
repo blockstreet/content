@@ -5,7 +5,7 @@
 In 2008, a person (or group of people) under the name "Satoshi Nakamoto" released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also created the first cryptocurrency "Bitcoin", and inspired people to create hundreds of other cryptocurrencies.
 
 ## [Blockchains](#blockchains)
-We've said the term "blockchain" before, so you might be wondering what it is. A blockchain is the underlying technology that allows cryptocurrencies to work. It is a record of all the transactions that have ever been made between people on the network. By looking at this ledger(blockchain), you can tell how much money any individual person has.
+We just used the word "blockchain", but if nobody has ever explained it to you, you might be wondering what it is. Blockchain is the technology that allows cryptocurrencies to work. It is basically a list of messages where a part of each message is the time the message was sent - kinda like a notebook with page numbers. For Bitcoin, the blockchain is a (**<lookup key="notebook">big notebook of transactions</lookup>**). By looking at this notebook (blockchain), you can tell how much money a person has.
 
 ### Useful Terms
 There are a few terms you'll need to know to understand how transactions work on a blockchain. You'll need to know about **digital signatures**, **public and private keys**, and **digital wallets**.
