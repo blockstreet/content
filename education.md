@@ -17,7 +17,7 @@ A digital signature is the same thing for computers that a hand-written signatur
 Private and public keys are the building blocks for **computer signatures**, and their names will help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **computer signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **computer signature** is actually yours.
 
 #### Digital Wallet
-A digital wallet is basically the same thing as a bank account.  Digital wallets have unique addresses to identify them, similar to a checking account's account number and routing number.
+A digital wallet is basically a house for your cryptocurrency.  Every digital wallet has its own addresses, so if people want to pay you money, they know where to send it.
 
 #### Decentralization
 If a system is decentralized, that means that every person in the system knows everything about it. Think of it like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if you try to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.
