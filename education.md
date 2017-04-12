@@ -23,7 +23,7 @@ A digital wallet is basically a house for your cryptocurrency.  Every digital wa
 If a system is decentralized, that means that every person in the system knows everything about it. Think of it like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if you try to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.
 
 ## [Analogy Time](#analogy)
-Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will make help us in the exmaple.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency.
+Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the exmaple.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency.
 
 | Check | Cryptocurrency |
 | --- | --- |
