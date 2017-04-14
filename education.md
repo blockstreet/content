@@ -8,13 +8,13 @@ In 2008, a person (or group of people) under the name "Satoshi Nakamoto" release
 We just used the word "blockchain", but if nobody has ever explained it to you, you might be wondering what it is. Blockchain is the technology that allows cryptocurrencies to work. It is basically a list of messages where a part of each message is the time the message was sent - kinda like a notebook with page numbers. For Bitcoin, the blockchain is a (**<lookup key="notebook">big notebook of transactions</lookup>**). By looking at this notebook (blockchain), you can tell how much money a person has.
 
 ### Useful Terms
-There are a few things you'll need to know to understand how transactions work on a blockchain. You'll need to know about **digital signatures**, **private keys**, **public keys**, and **digital wallets**.
+There are a few things you'll need to know to understand how transactions work on a blockchain. You'll need to know about **<lookup key="digital-signature">digital signatures</lookup>**, **<lookup key="private-key">private keys</lookup>**, **<lookup key="public-key">public keys</lookup>**, and **<lookup key="digital-wallet">digital wallets</lookup>**.
 
 #### Digital Signature
-A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Whenever you see "digital signature", just think **computer signature**.
+A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Whenever you see "digital signature", just think **<lookup key="computer-signature">computer signature</lookup>**.
 
 #### Private and Public Keys
-Private and public keys are the building blocks for **computer signatures**, and their names will help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **computer signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **computer signature** is actually yours.
+Private and public keys are the building blocks for **<lookup key="computer-signature">computer signatures</lookup>**, and their names will help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **<lookup key="computer-signature">computer signature</lookup>** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **<lookup key="computer-signature">computer signature</lookup>** is actually yours.
 
 #### Digital Wallet
 A digital wallet is basically a house for your cryptocurrency.  Every digital wallet has its own addresses, so if people want to pay you money, they know where to send it.
@@ -29,10 +29,10 @@ Let's consider the scenario where a person (Alice) owes another person (Bob) $10
 
 | Check | Cryptocurrency |
 | --- | --- |
-| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her **digital wallet** address wants to send $10 worth of coins to Bob's **digital wallet** address |
-| Alice signs the check in cursive, using a pen | Alice uses her **private key** to sign put her **digital signature** on her note  |
+| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her **<lookup key="digital-wallet">digital wallets</lookup>** address wants to send $10 worth of coins to Bob's **<lookup key="digital-wallet">digital wallets</lookup>** address |
+| Alice signs the check in cursive, using a pen | Alice uses her **<lookup key="private-key">private keys</lookup>** to sign put her **<lookup key="computer-signature">digital signature</lookup>** on her note  |
 | Alice gives the check to Bob | Alice posts the note on the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) where everyone can see |
-| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's **public key** to make sure that the note was written by Alice |
+| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's **<lookup key="public-key">public key</lookup>** to make sure that the note was written by Alice |
 | Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) to make sure that Alice has at least $10 worth of coins |
 | If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
 
