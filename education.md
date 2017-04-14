@@ -25,7 +25,7 @@ If a system is decentralized, that means that every person in the system knows e
 ## [Analogy Time](#analogy)
 Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency.
 
-<div class="table-anchor"></div>
+<div class="table-anchor">
 
 | Check | Cryptocurrency |
 | --- | --- |
@@ -35,6 +35,8 @@ Let's consider the scenario where a person (Alice) owes another person (Bob) $10
 | Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's **public key** to make sure that the note was written by Alice |
 | Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) to make sure that Alice has at least $10 worth of coins |
 | If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
+
+</div>
 
 One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank. If the bank makes a mistake, decides to be a jerk, or somehow forgets how much money people have then anyone who trusted in the bank could lose their money. In the right hand column all of the records are copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does then Bob, Carl, and Dora will know that she is lying. If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) back.
 
