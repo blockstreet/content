@@ -1,2 +1,2 @@
-# Coinstreet Education
-This repository contains the educations content of the coinstreet.io website.
+# Blockstreet Education
+This repository contains the educations content of the blockstreet.io website.

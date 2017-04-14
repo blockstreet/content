@@ -1,65 +1,76 @@
-# What is Cryptocurrency?
-- **Topics**: bitcoin, blockchain, decentralization, transactions
-- **Briefs**: digital signatures, wallets, store of value, source of truth
+# [What is Cryptocurrency?](#what-is-cryptocurrency)
+***Note:** This is a constantly expanding portion of the site that will grow in both content and clarity over time.*
 
-## Cryptocurrencies
-In 2008, a mysterious figure by the name "Satoshi Nakamoto" released a document describing a global digital currency as a store of value that was controlled by no one individual, and instead shared amongst the population of the world on a system called the "Blockchain". This document spawned the first cryptocurrency "Bitcoin" that would eventually grow into hundreds of other cryptocurrencies.
+## [Cryptocurrencies](#cryptocurrencies)
+In 2008, a person (or group of people) under the name "Satoshi Nakamoto" released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also created the first cryptocurrency "Bitcoin", and inspired people to create hundreds of other cryptocurrencies.
 
-You may be familiar with Bitcoin already; you may have heard it was used on the "darkweb" or heard about it skyrocketing to over 50 times it's value in less than a year. A cyptocurrency's value is based on supply and demand: if more people want it and are willing to pay for it, it's price goes up. If people don't want it, its price moves down. Similar to how if you wanted to make a purchase of a $1,000 laptop at a store with your debit card, the point-of-sale machine reads your card, determines your account information, then checks to see if you have enough money to make the purchase.
+## [Blockchains](#blockchains)
+We just used the word "blockchain", but if nobody has ever explained it to you, you might be wondering what it is. Blockchain is the technology that allows cryptocurrencies to work. It is basically a list of messages where a part of each message is the time the message was sent - kinda like a notebook with page numbers. For Bitcoin, the blockchain is a (**<lookup key="notebook">big notebook of transactions</lookup>**). By looking at this notebook (blockchain), you can tell how much money a person has.
 
-Cryptocurrencies accomplish this by using a system called a "blockchain". Suppose there are two people, Alice and Bob, who want to make a transaction, using a cryptocurrency (like Bitcoin). In simple terms, Alice wants to send 3 bitcoins to Bob. Alice's transaction is digitally signed to prove it came from her wallet. To check if Alice has enough money for the transaction, we look at a list of every transaction to every wallet since the start of Bitcoin.
+### Useful Terms
+There are a few things you'll need to know to understand how transactions work on a blockchain. You'll need to know about **digital signatures**, **private keys**, **public keys**, and **digital wallets**.
 
-## Blockchains
-You may have heard the term "blockchain" before and wondered what it is. A blockchain is the underlying technology that allows cryptocurrencies to work. It is a record of all the transactions that have ever been made between people on the network. By looking at this ledger, you can determine how much money any individual person has.
+#### Digital Signature
+A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Whenever you see "digital signature", just think **computer signature**.
 
-#### Example
-Let's imagine there is a community of people who use cryptocurrency to pay for products and services they desire. In this community there is an person named Carl. Whenever anyone in this group wants to send money to anyone else, they must first tell Carl about the details of the transaction, and Carl writes it in his **big notebook of transactions**. Say another person, David, wishes to give $10 to Erica. David tells Carl "I want to give Erica $10"; Carl checks David's ID and signature to make sure it's really him, then Carl reads through all of the transactions in his **big notebook of transactions** to figure out how much money has come in and out of David's account. If after Carl reads through the whole notebook of everyone's transactions and sees David doesn't have $10 to give to Erica, the transaction doesn't happen. If David does have enough money, $10 is deducted from his total balance and Erica gains $10, and the transaction is recorded in Carl's **big notebook of transactions**.
+#### Private and Public Keys
+Private and public keys are the building blocks for **computer signatures**, and their names will help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **computer signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **computer signature** is actually yours.
 
-This system may seem simple but it has one glaring flaw; Carl must be a trustworthy member of the community. If he makes a mistake calculating balances or acts maliciously, the system becomes flawed and unfair. This is what is called a "single source of truth" system, which is used in modern day banking. Through decentralization, we can allow everyone in the community to have an up-to-date **big notebook of transactions** so no one has to trust any one member of the community.
+#### Digital Wallet
+A digital wallet is basically a house for your cryptocurrency.  Every digital wallet has its own addresses, so if people want to pay you money, they know where to send it.
 
-## Decentralization
-A decentralized system is one where no individual in the network controls any significant portion of the something, whether that be power or the source of truth. Voting is one such system, where everyone in the community comes together to make a decision without any one person having more opportunity to influence the outcome than any other person.
+#### Decentralization
+If a system is decentralized, that means that every person in the system knows everything about it. Think of it like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if you try to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.
 
-#### Example
-Let's take the system we outlined in the previous example and apply a decentralized approach. In our new system, instead of all members of the community having to report their transactions to only Carl, they instead tell every other member of the community about the transaction. Now every member of the community has a **big notebook of transactions**, and whenever a trade happens, everyone writes down the details.  
+## [Analogy Time](#analogy)
+Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency.
 
-This approach prevents the previous issue of Carl making an error calculating balances or more importantly him acting maliciously. Now, if Carl tries to change his notebook to claim he has more money than he really does, his notebook would have a different history than every other member of the community and his version would be ignored. With enough people holding **big notebooks of transactions**, it becomes extremely hard to cheat the system unless over half of the community conspires to all record the same false transactions.
+| Check | Cryptocurrency |
+| --- | --- |
+| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her **digital wallet** address wants to send $10 worth of coins to Bob's **digital wallet** address |
+| Alice signs the check in cursive, using a pen | Alice uses her **private key** to sign put her **digital signature** on her note  |
+| Alice gives the check to Bob | Alice posts the note on the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) where everyone can see |
+| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's **public key** to make sure that the note was written by Alice |
+| Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) to make sure that Alice has at least $10 worth of coins |
+| If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
 
-Another important benefit of this approach, is if a member of the community loses their notebook, they can simply retrieve a copy of anyone else's notebook and rejoin the network. This prevents anyone from taking down the financial network the community has established as the attacker would have to burn the notebooks of everyone in the community which becomes very difficult once the community reaches a large size.
+One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank. If the bank makes a mistake, decides to be a jerk, or somehow forgets how much money people have then anyone who trusted in the bank could lose their money. In the right hand column all of the records are copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does then Bob, Carl, and Dora will know that she is lying. If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) back.
 
-## Efficiency
-While the decentralized approach from the above example may seem like a large improvement from the initial centralized approach we started with, you might think "Hmm, having to tell every single person about every transaction could get hectic. Wouldn't this system be slow?" The fact that a member of the community has to tell everyone whenever they want to make a transaction seems like an inefficient way of doing things.
+## [Efficiency](#efficiency)
+Even though the decentralized steps from the above example look better than the way that uses a bank, you might think "If I have to tell every person about every transaction, that could take a long time. Wouldn't that make things really slow?".
 
-Thanks to modern day technology, all of this informing, book-keeping and verification can be done on a computer. Given the fact that computers are millions of magnitudes faster than humans at processing data, the transactions and record-keeping are nearly instant. This also allows for the system to scale to the population of the world, instead of the small community.
+Thanks to computer programs, all of this can be done quickly and automatically without you ever needing to do anything. Since computers are getting faster all the time, Alice can do all of the steps in the right hand column above in less than a second!
 
 
-## What makes a cryptocurrency worth anything at all?
-  You may be wondering how bits on the computer can possibly be worth anything at all.  Lets break it down using familiar examples.
-  The US Dollar: a currency used to buy things in the United States.  A dollar is simply a piece of paper with some numbers on it.  What makes it worth anything more than a cryptocurrency?  You may be thinking, "isn't the dollar backed by gold?", but you'd be wrong.  It hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm).  But for the sake of simplicity, lets pretend we took a small trip back in time.  Gold has **intrinsic value**.  It can be made into jewelry, it's conductive, so it can be used in electrical applications(such as your computer or smartphone) yet resists oxidation, unlike copper.  There is also a limited amount of gold; while you technically can make gold, the process is too expensive to make it worthwhile to sell it afterwards.  These factors contribute to why gold has value.
-  But what about cryptocurrencies?  
-* Are they a limited resource?
+## [What makes it valuable?](#what-makes-it-valuable)
+You may be wondering how bits on the computer can possibly be worth anything at all. Lets break it down using a familiar example.
 
-  For most cryptocurrencies, there is a limited number of "coins" in circulation at any given time.  You can't simply "create" a bitcoin and add it to your wallet, due to complex cryptography and transaction logging.  These coins are currently created by "miners" who form the backbone of any cyptocurrency using Proof of Work.  Proof of Stake is a new concept that is going to be implemented into Ethereum so mining won't be necessary anymore.
+**The US Dollar**: a currency used to buy things in the United States. A dollar is simply a piece of paper with some numbers on it. What makes it worth anything more than a cryptocurrency? You may be thinking, "isn't the dollar backed by gold?", but you'd be wrong. It hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm). But to keep it simple, lets pretend we took a small trip back in time. Gold has **<lookup key="intrinsic-value">intrinsic value</lookup>**. It can be made into jewelry, it's conductive, so it can be used in electrical stuff (such as your computer or smartphone) yet doesn't rust, unlike copper. While it is possible to make gold, the amount of money that it costs is more than the money you could get from selling it, which means there is a limited amount of it. These reasons show why gold has value. But what about cryptocurrencies?
+
+#### Are cryptocurrencies a limited resource?
+For most cryptocurrencies, there is a limited number of "coins" that can be available at any given time. You can't simply "create" a bitcoin and add it to your wallet, due to cryptography and transaction logging. Coins are currently created by "miners" who form the backbone of any cyptocurrency.  Mining often requires much more computing power than the average person has access to, but fortunately for us, we do not need to be a miner in order to use cryptocurrency.
   
-* Do they have intrinsic value?
-
-  Well, yes and no.  For example, Bitcoin can be seen as a "store of value", with its price being dictated by supply and demand.  The more people that think bitcoins are worth something, the more people buy into it, and consequently the price goes up.  Ethereum has intrinsic value because the blockchain provides the backbone for running "smart contracts", which can basically be a program of any kind.  You can interact with these contracts by sending Eth.  People who believe Ethereum is going to become more popular buy into it, and its price increases.
+#### Do they have intrinsic value?
+Well, yes and no. For example, Bitcoin can be seen as a "store of value" with its price being depending on supply and demand. The more people that think bitcoins are worth something, the more people buy into it and the price goes up. Other forms of cryptocurrencies may have value because their blockchains provide the capability to run "smart contracts" which are a list of actions that run according to a plan. Smart contracts are a new concept but they are believed to provide safe ways of ensuring that two or more parties hold up their end of a bargain. For instance, a smart contract could be made to automatically pay the pizza company when the delivery man drops off the pizza.  If the pizza never arrives, then the company never gets paid. But if the pizza does arrive, then the customer cannot take the pizza and refuse to pay.
   
-* Who's buying cryptocurrencies?
+## [Who buys cryptocurrencies?](#who-buys-cryptocurrencies)
+There are a lot of different people who buy cryptocurrencies. There are many currencies, each trying to solve existing problems of the centralized systems, or create new applications using blockchain technology.
 
-  People buy into cryptocurrencies for a few different reasons.
-  	* They want to make money off them by purchasing them when their price is low, and selling them when the price is high.
-	This is similar to playing the stock market.  Cryptocurrencies are much more volatile, and can possibly gain or lose upwards of 20% in a single day.  This makes them an ideal target for people interested in day trading them to try to out perform the market.
-	* They believe in the underlying technology.
-	Some people believe that cryptocurrencies are a natural progression for society.  They believe that eventually, cryptocurrencies like Bitcoin or Ethereum will be commonplace, and used for everything from paying your electricity bill to purchasing food at a restaurant.
-	
-## What are some examples of cryptocurrencies?
-### Bitcoin
-Bitcoin is blockchain's first digital asset referred to as cryptocurrency. Its an innovative payment solution powered by blockchain technology. It acts as a peer to peer cash payment system and a storage of value with security built at its core. It was the first payment solution to solve the double-spend problem after the crash of 2008. Double-spending is the result of successfully spending some money more than once. Bitcoin, as seen on exchanges as (BTC) has a stock supply, generally called coins or tokens, of 21,000,000BTC which are divisible by 100M units per coin. Each unit is uniquely identifiable and programmable allowing users to assign custom properties to each unit. A unit can represent a USD, a share in a company, a KwH of energy, a digital certificate of ownership, 1,000 barrels of oil, loyalty credits or electoral votes. As of March 2017 each coin is worth $1,059 giving it a $17.2B market capitalization. Bitcoin leverages the blockchains open sourced codebase, referred to as an open API (application program interface) and created its own API allowing innovators to leverage its payment network for transacting and engineering new use cases.
+#### Day Traders
+Just like in the stock market there are people who want to profit from the changing prices of cryptocurrencies. They purchase a currency when the price is low and sell it when the price is high. Many cryptocurrencies change price much more quickly than stocks and are able to gain or lose over 20% of their value in a single day. This makes for a very profitable outcome if a trader is able to time the market ups and downs.
 
-### Ethereum
-Ethereum is a decentralized digital contracts system. It is the first large scale computer allowing applications to run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference. It has the potential to be a secure backbone for everything from e-commerce to IoT enabling transparent governing systems for communities and businesses. It handles user authentication, security, messaging and decentralized storage of data. Digital contracts are programmed rules that are enforced by Ethereums underlying core code which sits on top of the Blockchain and leverages portions of Bitcoins code. The programming is done with a programming laneguage which is executed on a browser called Mist. This allows developers who are knowledgable in Java, C, Python to program "smart contracts". It has the 2nd largest market cap valued at $3.74B. It has the potential to be the next evolution of the worldwide web.
+#### Holders
+Some people believe that cryptocurrencies will change the way people do online banking. They believe that eventually, cryptocurrencies like Bitcoin will become common, and used for everything from paying your electricity bill to buying food at a restaurant. By buying now at a discounted price, they think the value of their currency will go up as more people use it.
 
-### Dash
-Dash is easy to use digital cash for instant, private and secure transactions. Dash does this by leveraging several existing blockchain solutions such as Bitcoin, Ethereum and Lightning Network which provides a faster way to transact. Dash automatically provides different sending and receiving address for every transaction all the while allowing each user to retain a private encrypted account authentication code that only they know. Dash’s premier technology Evolution make’s digital cash easy to use and access for all users, even those who aren’t technologically savvy. Anybody will be able to setup an account on the blockchain, add contacts and pay them by name. Purchases from websites or mobile apps will be simple, requiring only a single click. It is comparable to that of PayPal for blockchain. It enables the access of digital cash on any computer eliminating the need to store and access digital currency on one and only one device.
+#### Corporations
+Some cryptocurrencies have drawn interest from large companies; Microsoft, Santander, and JP Morgan (to name a few) are interested in a cryptocurrency called Ethereum. These companies may try to use blockchain technology to make certain operations more efficient and take advantage of the fast transaction speed, resulting in cheaper operational costs.
 
+## [What are some examples of cryptocurrencies?](#what-are-some-examples-of-cryptocurrencies)
+#### Bitcoin
+Bitcoin was the first kind of money to be based on a blockchain. It lets people pay one another just like with paper bills or credit cards, and has been built to make sure that money cannot be lost or stolen. Bitcoin is listed in cryptocurrency exchange sites as BTC, and has a stock supply (usually called coins or tokens). Unlike most other forms of money, these coins can be broken down into smaller parts so that you can pay someone with fractions of coins. A coin can represent almost anything, but usually coins are used to represent dollars. As of March 2017 each coin is worth $1,059 giving it a $17.2B market capitalization.
+
+#### Ethereum
+Ethereum is a cryptocurrency that was made to run "smart contracts". A smart contract is a computer program that, once it starts, cannot be stopped until it has run all the way through. This idea can be used for many different applications; from paying for a taxi ride to giving away money in a will. Like Bitcoin it was built on a blackchain to make sure that security is a number one priority. Smart contracts are made with a special programming language and are run on a browser called Mist. It has the 2nd largest market capitalization (valued at $3.74B).
+
+#### Dash
+Dash is another cryptocurrency that was made to be used as digital cash. Dash uses technologies built by other cryptocurrencies to try to be the most secure and the fastest cryptocurrency there is. Dash uses many strategies to make sure that every transaction is as secure as possible. Dash also focuses on making its product easy to use. Purchases from websites or mobile apps using Dash should be simple, sometimes needing only a single click.
