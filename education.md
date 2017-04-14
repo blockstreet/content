@@ -26,6 +26,7 @@ If a system is decentralized, that means that every person in the system knows e
 Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency.
 
 <div class="table-anchor"></div>
+
 | Check | Cryptocurrency |
 | --- | --- |
 | Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her **digital wallet** address wants to send $10 worth of coins to Bob's **digital wallet** address |
