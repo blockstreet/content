@@ -1,9 +1,9 @@
 {
     "notebook": "When we say \"big notebook of transations\", we are talking about the blockchain. This allows us to use a simple concept that everyone can understand and lead it into a greater understanding.",
     "intrinsic-value": "Intrinsic value is the actual value of a company or an asset based on an underlying perception of its true value including all aspects of the business, in terms of both tangible and intangible factors. This value may or may not be the same as the current market value.",
-    "digital-signatures": "A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are.",
-    "private-keys": "A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your computer signature on something.",
-    "public-keys": "A public key is a key that you share with the entire world; other people use your public key to make sure that your computer signature is actually yours.",
-    "digital-wallets": "A digital wallet is basically a house for your cryptocurrency. Every digital wallet has its own addresses, so if people want to pay you money, they know where to send it.",
+    "digital-signature": "A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are.",
+    "private-key": "A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your computer signature on something.",
+    "public-key": "A public key is a key that you share with the entire world; other people use your public key to make sure that your computer signature is actually yours.",
+    "digital-wallet": "A digital wallet is basically a house for your cryptocurrency. Every digital wallet has its own addresses, so if people want to pay you money, they know where to send it.",
     "computer-signature": "A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Whenever you see \"digital signature\", just think computer signature."
 }
