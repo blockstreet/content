@@ -10,6 +10,7 @@ What is Cryptocurrency?
     Digital Wallet
     Decentralization
     Immutability
+    Hashes
 
   Forking
     Soft Vs. Hard
