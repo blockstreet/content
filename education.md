@@ -1,29 +1,28 @@
 # [What is Cryptocurrency?](#what-is-cryptocurrency)
-***Note:** This is a constantly expanding portion of the site that will grow in both content and clarity over time.*
 
 ## [Cryptocurrencies](#cryptocurrencies)
-In 2008, a person (or group of people) under the name "Satoshi Nakamoto" released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also created the first cryptocurrency "Bitcoin", and inspired people to create hundreds of other cryptocurrencies.
+In 2008 a person (or group of people), using the name "Satoshi Nakamoto", released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also helped create the first cryptocurrency "Bitcoin", which over time has inspired people to create hundreds of other cryptocurrencies.
 
 ## [Blockchains](#blockchains)
-We just used the word "blockchain", but if nobody has ever explained it to you, you might be wondering what it is. Blockchain is the technology that allows cryptocurrencies to work. It is basically a list of messages where a part of each message is the time the message was sent - kinda like a notebook with page numbers. For Bitcoin, the blockchain is a (**<lookup key="notebook">big notebook of transactions</lookup>**). By looking at this notebook (blockchain), you can tell how much money a person has.
+In order to understand what a cryptocurrency is, it is important to understand what a blockchain is. A blockchain is the technology that allows cryptocurrencies to work. A blockchain is a list of messages where a part of each message is the time the message was sent - like a **<lookup key="notebook">big notebook of transactions</lookup>** with page numbers. By looking at the last page of this notebook (or the last block in the blockchain), you can tell how much money a person has.
 
 ### Useful Terms
-There are a few things you'll need to know to understand how transactions work on a blockchain. You'll need to know about **digital signatures**, **private keys**, **public keys**, and **digital wallets**.
+There are a few other things that will be helpful to know if you want to understand how transactions work on a blockchain. These things include **digital signatures**, **private keys**, **public keys**, and **digital wallets**.
 
 #### Digital Signature
-A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Whenever you see "digital signature", just think **computer signature**.
+A digital signature is the same thing for computers that a hand-written signature is for paper - it shows that a person is who they say they are. Cryptocurrencies use digital signatures to make sure that only you can spend money from your account.
 
-#### Private and Public Keys
-Private and public keys are the building blocks for **computer signatures**, and their names will help us understand how they are used.  A private (or secret) key is a key that you keep hidden from everybody else; you use your private key to put your **computer signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **computer signature** is actually yours.
+#### Private Keys and Public Keys
+Private and public keys are the building blocks for **digital signatures**, and their names give us hints about how they are used.  A private (sometimes called secret) key is a key that you keep hidden from everybody else; you use your private key to put your **digital signature** on something.  A public key is a key that you share with the entire world; other people use your public key to make sure that your **digital signature** is actually yours.
 
 #### Digital Wallet
-A digital wallet is basically a house for your cryptocurrency.  Every digital wallet has its own addresses, so if people want to pay you money, they know where to send it.
+A digital wallet is basically a house for your cryptocurrency. Like a house, every digital wallet has its own addresses, so if people want to pay you money, they know where to send it.
 
 #### Decentralization
-If a system is decentralized, that means that every person in the system knows everything about it. Think of it like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if you try to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.
+One of the reasons cryptocurrencies have been getting more popular in the last few years is that they are a type of money that is decentralized. This means that there is no part of the system that has more information or power than any other part. Think of it like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if you try to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.
 
-## [Analogy Time](#analogy)
-Let's consider the scenario where a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example.  On the left Alice pays Bob with a check, on the right she pays him using crytocurrency.
+## [Side by Side Comparison](#analogy)
+Let's pretend there is a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example. On the left Alice pays Bob with a check, on the right she pays him using a crytocurrency.
 
 | Check | Cryptocurrency |
 | --- | --- |
@@ -34,16 +33,17 @@ Let's consider the scenario where a person (Alice) owes another person (Bob) $10
 | Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) to make sure that Alice has at least $10 worth of coins |
 | If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
 
-One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank. If the bank makes a mistake, decides to be a jerk, or somehow forgets how much money people have then anyone who trusted in the bank could lose their money. In the right hand column all of the records are copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does then Bob, Carl, and Dora will know that she is lying. If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) back.
+One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank. That is because the way we use money now is a centralized system, where the bank has the final say in how much money people have. If the bank makes a mistake, decides to steal people's money, or somehow forgets how much money people have, then anyone who trusted the bank could lose their money. 
+The right hand column is uses a money system that is decentralized, which means a record of how much money people have is copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does, then Bob, Carl, and Dora will know that she is lying. If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) back.
 
 ## [Efficiency](#efficiency)
-Even though the decentralized steps from the above example look better than the way that uses a bank, you might think "If I have to tell every person about every transaction, that could take a long time. Wouldn't that make things really slow?".
+Even though the decentralized system from the example above might look better than the way that uses a bank, you might think "If I have to tell every person about every transaction, that could take a long time. Wouldn't that make things really slow?".
 
-Thanks to computer programs, all of this can be done quickly and automatically without you ever needing to do anything. Since computers are getting faster all the time, Alice can do all of the steps in the right hand column above in less than a second!
+Thanks to computers, all of this can be done quickly and automatically without you ever needing to do anything. Since computers are getting faster all the time, Alice can do all of the steps in the right hand column above in less than a second!
 
 
 ## [What makes it valuable?](#what-makes-it-valuable)
-You may be wondering how bits on the computer can possibly be worth anything at all. Lets break it down using a familiar example.
+You may be wondering how cryptocurrencies are worth real money. Let's break it down using a familiar example.
 
 **The US Dollar**: a currency used to buy things in the United States. A dollar is simply a piece of paper with some numbers on it. What makes it worth anything more than a cryptocurrency? You may be thinking, "isn't the dollar backed by gold?", but you'd be wrong. It hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm). But to keep it simple, lets pretend we took a small trip back in time. Gold has **<lookup key="intrinsic-value">intrinsic value</lookup>**. It can be made into jewelry, it's conductive, so it can be used in electrical stuff (such as your computer or smartphone) yet doesn't rust, unlike copper. While it is possible to make gold, the amount of money that it costs is more than the money you could get from selling it, which means there is a limited amount of it. These reasons show why gold has value. But what about cryptocurrencies?
 
