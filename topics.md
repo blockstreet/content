@@ -9,8 +9,11 @@ What is Cryptocurrency?
     Public Key
     Digital Wallet
     Decentralization
-    Immutability
+    Immutability <-- why? (Kevin)
     Hashes
+
+  Decentralization
+    Something??
 
   Forking
     Soft Vs. Hard
