@@ -1,14 +1,14 @@
 # Topics
 ```
 What is Cryptocurrency?
-  History
+✓   History
   
   Blockchain
-    Digital Signature
-    Private Key
-    Public Key
-    Digital Wallet
-    Decentralization
+✓   Digital Signature
+✓   Private Key
+✓   Public Key
+✓   Digital Wallet
+✓   Decentralization
     Immutability <-- why? (Kevin)
     Hashes
 
