@@ -39,6 +39,7 @@ What is Cryptocurrency?
     Legality
     Trading
 ```
+```
 Kevin thoughts:
 
 I think this should be our base level education
@@ -74,3 +75,4 @@ I think this should be our base level education
   exchanges
   
 Not sure where forking fits in, but maybe we can find a place for that.  Everything else I think is not necessarily important enough to include
+```
