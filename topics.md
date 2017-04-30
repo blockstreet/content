@@ -9,35 +9,34 @@ What is Cryptocurrency?
 ✓   Public Key
 ✓   Digital Wallet
 ✓   Decentralization
-    Immutability <-- why? (Kevin)
+✗   Immutability <-- why? (Kevin)
     Hashes
 
-  Decentralization
-    Something??
+✓ Decentralization
+     Something??
 
-  Forking
-    Soft Vs. Hard
-    Upgrading
-    Rewinding
+✗ Forking
+✗   Soft Vs. Hard
+✗   Upgrading
+✗   Rewinding
 
-  Efficiency
-    Lightning Networks
+✓  Efficiency
+✗   Lightning Networks
   
-  Economics
-    Supply
-    Value
-    Demand
-    Speculation
+✗  Economics
+✓   Supply & Demand
+✓   Value
+✗   Speculation
     
-  Mining
-    Incentives
-    Proof of Work
-    Proof of Stake
+✓  Mining
+✓   Incentives
+✗   Proof of Work
+✗   Proof of Stake
     
-  Exchanges
-    History
-    Legality
-    Trading
+✓  Exchanges
+✗   History
+✗   Legality
+✓   Trading
 ```
 
 
