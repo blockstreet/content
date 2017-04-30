@@ -24,12 +24,14 @@ One of the reasons cryptocurrencies have been getting more popular in the last f
 ## [Side by Side Comparison](#analogy)
 Let's pretend there is a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example. On the left Alice pays Bob with a check, on the right she pays him using a crytocurrency.
 
+<div class="table-anchor">
+
 | Check | Cryptocurrency |
 | --- | --- |
-| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her **digital wallet** address wants to send $10 worth of coins to Bob's **digital wallet** address |
-| Alice signs the check in cursive, using a pen | Alice uses her **private key** to sign put her **digital signature** on her note  |
+| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her **<lookup key="digital-wallet">digital wallets</lookup>** address wants to send $10 worth of coins to Bob's **<lookup key="digital-wallet">digital wallets</lookup>** address |
+| Alice signs the check in cursive, using a pen | Alice uses her **<lookup key="private-key">private keys</lookup>** to sign put her **<lookup key="computer-signature">digital signature</lookup>** on her note  |
 | Alice gives the check to Bob | Alice posts the note on the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) where everyone can see |
-| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's **public key** to make sure that the note was written by Alice |
+| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's **<lookup key="public-key">public key</lookup>** to make sure that the note was written by Alice |
 | Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) to make sure that Alice has at least $10 worth of coins |
 | If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
 
