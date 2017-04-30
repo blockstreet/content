@@ -9,3 +9,13 @@ One of the reasons cryptocurrencies have been getting more popular in the last f
 
 ## [Blockchains](#blockchains)
 In order to understand what a cryptocurrency is, it is important to understand what a blockchain is. A blockchain is the technology that allows cryptocurrencies to work. A blockchain is a list of messages where a part of each message is the time the message was sent - like a **<lookup key="notebook">big notebook of transactions</lookup>** with page numbers. By looking at the last page of this notebook (or the last block in the blockchain), you can tell how much money a person has.
+
+## [Side by Side Comparison](#analogy)
+To help understand how cryptocurrencies work, let's pretend there is a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example. On the left Alice pays Bob with a check, on the right she pays him using a crytocurrency.
+
+| Check | Cryptocurrency |
+| --- | --- |
+| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that she wants to send Bob $10 |
+| Alice gives the check to Bob | Alice posts the note on the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) where everyone can see |
+| Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) to make sure that Alice has at least $10 worth of coins |
+| If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
