@@ -111,7 +111,7 @@
         "chain": "Ethereum"
     },
     {
-        "status": "ICO running",
+        "status": "active",
         "name": "E4ROW",
         "symbol": "E4ROW",
         "description": "Ether for the rest of the world",
@@ -363,7 +363,7 @@
         "chain": "Ethereum"
     },
     {
-        "status": "ICO running",
+        "status": "active",
         "name": "Sikoba",
         "symbol": "TM-SIKOBA",
         "description": "A P2P IOU/credit platform",
@@ -412,7 +412,7 @@
         "chain": "Ethereum"
     },
     {
-        "status": "ICO running",
+        "status": "active",
         "name": "The Legends Room",
         "symbol": "VIP",
         "description": "Las Vegas Nightlife Using Blockchain Technology",
