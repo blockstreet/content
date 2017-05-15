@@ -3,14 +3,14 @@
     "children": [{
         "topic": "economics",
         "children": [{
-            "topic": "supply-and-demand",
+            "topic": "supply-and-demand"
         }, {
             "topic": "inflation-and-deflation"
         }]
     }, {
         "topic": "exchanges",
         "children": [{
-            "topic": "limit-orders",
+            "topic": "limit-orders"
         }, {
             "topic": "market-orders"
         }]
@@ -22,11 +22,11 @@
     "children": [{
         "topic": "addresses",
     }, {
-        "topic": "decentralization",
+        "topic": "decentralization"
     }, {
         "topic": "forking",
         "children": [{
-            "topic": "soft-vs-hard",
+            "topic": "soft-vs-hard"
         }, {
             "topic": "upgrading"
         }, {
@@ -37,7 +37,7 @@
     }, {
         "topic": "mining",
         "children": [{
-            "topic": "proof-of-work",
+            "topic": "proof-of-work"
         }, {
             "topic": "proof-of-stake"
         }]
@@ -45,7 +45,7 @@
 }, {
     "topic": "cryptography",
     "children": [{
-        "topic": "digital-signature",
+        "topic": "digital-signature"
     }, {
         "topic": "hashing",
     }, {
