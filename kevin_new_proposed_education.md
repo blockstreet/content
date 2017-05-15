@@ -8,7 +8,7 @@ In 2008, a person (or group of people) under the name "Satoshi Nakamoto" wrote a
 One of the reasons cryptocurrencies are gaining popularity is that they are a type of money that is decentralized. This means that banks don't have the final say when it comes to your money.
 
 ## [Blockchains](#blockchains)
-A blockchain is a list of messages, and part of each message is the time the message was sent - like a **<lookup key="notebook">big notebook</lookup>** with page numbers.
+A blockchain is a list of messages, and part of each message is the time the message was sent - like a **<lookup key="notebook">big notebook</lookup>** with page numbers. Cryptocurrencies use a blockchain to keep track of how much money people have.
 
 ## [Side by Side Comparison](#analogy)
 To help understand how cryptocurrencies work, let's pretend there is a person (Alice) who owes another person (Bob) $10. On the left, Alice pays Bob with a check, on the right, she pays him using a crytocurrency.
