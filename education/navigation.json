@@ -15,12 +15,12 @@
             "topic": "market-orders"
         }]
     }, {
-        "topic": "legality",
+        "topic": "legality"
     }]
 }, {
     "topic": "blockchain",
     "children": [{
-        "topic": "addresses",
+        "topic": "addresses"
     }, {
         "topic": "decentralization"
     }, {
@@ -33,7 +33,7 @@
             "topic": "rewinding"
         }]
     }, {
-        "topic": "immutability",
+        "topic": "immutability"
     }, {
         "topic": "mining",
         "children": [{
@@ -47,7 +47,7 @@
     "children": [{
         "topic": "digital-signature"
     }, {
-        "topic": "hashing",
+        "topic": "hashing"
     }, {
         "topic": "keys"
     }]
