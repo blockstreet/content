@@ -1,0 +1,484 @@
+[{
+        "status": "upcoming",
+        "name": "0x Project",
+        "symbol": "ZRC",
+        "description": "The protocol for decentralized exchange",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Akasha",
+        "symbol": "AKASHA",
+        "description": "Ethereum based social network using IPFS for storage",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Aragon",
+        "symbol": "ANT",
+        "description": "Create value without borders or intermediaries",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "active",
+        "name": "Augur",
+        "symbol": "REP",
+        "description": "Prediction market platform",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Back to Earth",
+        "symbol": "SRC",
+        "description": "Cryptocurrency to unlock in-game content",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "BANCOR Network",
+        "symbol": "BGT",
+        "description": "A hierachical monetary system",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "description": "Introducing blockchain-based advertising",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Beyond The Void",
+        "symbol": "NEXIUMS",
+        "description": "Real-time strategy video game",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Blockchain Capital",
+        "symbol": "BCAP",
+        "description": "Digital Liquid Venture Fund",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Blocktix",
+        "symbol": "BTX",
+        "description": "An Ethereum event hosting platform designed for real world",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "Boardroom",
+        "symbol": "TM-BOARDROOM",
+        "description": "Blockchain governance platform that empowers organizations",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Borg DAO",
+        "symbol": "BRG",
+        "description": "The Borg DAO will help to stimulate development on Ethereum Classic, by incentivizing developers to support the ETC blockchain for their DApps and to integrate their applications into the Borg DAO.",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Branche",
+        "symbol": "BLT",
+        "description": "Decentralized Consumer Micro­credit and Financial Services",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "ChronoBank",
+        "symbol": "LH",
+        "description": "Time based currencies on multiple blockchains",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "CodeTract",
+        "symbol": "CTT",
+        "description": "Building on Ethereum for mainstream transaction of value",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "active",
+        "name": "DigixDAO",
+        "symbol": "DGD",
+        "description": "DAO that sells gold with Ethereum based coins",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "ICO running",
+        "name": "E4ROW",
+        "symbol": "E4ROW",
+        "description": "Ether for the rest of the world",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Edgeless",
+        "symbol": "EDG",
+        "description": "Decentralized Casino",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "Elephant",
+        "symbol": "ELCOIN",
+        "description": "Multifunctional economic platform for businesses",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "active",
+        "name": "Ether",
+        "symbol": "ETH",
+        "description": "Open source platform to write and distribute decentralized applications.",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "Ether Design",
+        "symbol": "TM-ETHERDESIGN",
+        "description": "Decentralized design sourcing",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Etherex",
+        "symbol": "ETHEREX",
+        "description": "Fully decentralized cryptocurrency exchange",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "Etherisc",
+        "symbol": "RSC",
+        "description": "A decentralized insurance and reinsurance marketplace",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "active",
+        "name": "Expanse",
+        "symbol": "EXP",
+        "description": "Decentralized information, application, and contract platform",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "FirstBlood",
+        "symbol": "1ST",
+        "description": "A token for participating eSports matches and betting",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "FundRequest",
+        "symbol": "FND",
+        "description": "Platform for rewarding open source contributions",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Gnosis",
+        "symbol": "Gnosis",
+        "description": "Crowd-sources, ethereum based prediction market",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Golem",
+        "symbol": "GNT",
+        "description": "Using personal computer to do jobs that are done today by servers",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "Hacker Gold",
+        "symbol": "HKG",
+        "description": "Virtual hackathon token",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Hong Coin",
+        "symbol": "Ħ",
+        "description": "Decentralized venture fund on blockchain",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Humaniq",
+        "symbol": "TM-Humaniq Token",
+        "description": "Decentralized Banking",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "Iconomi",
+        "symbol": "ICN",
+        "description": "Investment fund management platform for the decentralised economy",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "iEx.ec",
+        "symbol": "RLC",
+        "description": "Blockchain-based Fully Distributed Cloud Computing",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "InChain",
+        "symbol": "INC",
+        "description": "A decentralised insurance platform based on Ethereum smart contracts.",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Intellisys",
+        "symbol": "MIT",
+        "description": "Securitized Blockchain Asset",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Kibo",
+        "symbol": "KBT",
+        "description": "Decentralized lottery platform based on Ethereum smart-contracts",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Lunyr",
+        "symbol": "LUN",
+        "description": "Decentralized World Knowledge Base",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Matchpool",
+        "symbol": "GUP",
+        "description": "Making human connections",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Melon",
+        "symbol": "MLN",
+        "description": "Blockchain software for asset management",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Metal",
+        "symbol": "METAL",
+        "description": "Earn rewards every time you send or spend.",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "MyBit",
+        "symbol": "MyB",
+        "description": "Decentralized Asset Management w/ AI & Smart Financing",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Mysterium Network",
+        "symbol": "MYST",
+        "description": "Decentralised VPN service built on blockchain",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Napoleon Capital",
+        "symbol": "TM- NAPOLEON",
+        "description": "Smart active Bots",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "Numerai",
+        "symbol": "NMR",
+        "description": "A new kind of hedge fund",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Omise GO",
+        "symbol": "OMG",
+        "description": "Help us bank the unbanked, the right way",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "PassLfix",
+        "symbol": "PSLFX",
+        "description": "Smart contract ethereum based parcel delivery.",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Patientory",
+        "symbol": "PTOY",
+        "description": "Blockchain-secured medical records",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Populous",
+        "symbol": "PPT",
+        "description": "Invoice finance and factoring in blockchain",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "ReiDAO",
+        "symbol": "REI",
+        "description": "Digitalizing real estate ownerships",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Rex",
+        "symbol": "REX",
+        "description": "Real Estate Revolution",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "Santiment",
+        "symbol": "SNT",
+        "description": "Cryptomarkets intelligence platform",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "active",
+        "name": "Shift",
+        "symbol": "SHIFT",
+        "description": "A network for decentralized applications",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "ICO running",
+        "name": "Sikoba",
+        "symbol": "TM-SIKOBA",
+        "description": "A P2P IOU/credit platform",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "active",
+        "name": "SingularDTV",
+        "symbol": "SNGLS",
+        "description": "Blockchain film and television studio & distribution portal",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "SONM Network",
+        "symbol": "SPT",
+        "description": "Supercomputer Organized by Network Mining (GRIB technology)",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Starbase",
+        "symbol": "STAR",
+        "description": "Blockchain token based crowdfunding/crowdsourcing platform",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Status",
+        "symbol": "TM-Status",
+        "description": "Status is a browser, messenger, and gateway to a decentralised world.",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "active",
+        "name": "Storj",
+        "symbol": "SJCX",
+        "description": "Decentralized cloud storage platform",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "TaaS",
+        "symbol": "TAAS",
+        "description": "Token as a Service",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "ICO running",
+        "name": "The Legends Room",
+        "symbol": "VIP",
+        "description": "Las Vegas Nightlife Using Blockchain Technology",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "TokenCard",
+        "symbol": "TKN",
+        "description": "A platform for the post-bank era",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "undetermined",
+        "name": "TransActive Grid",
+        "symbol": "TM-TAG",
+        "description": "Community energy market enabled by the blockchain",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "TrueBit",
+        "symbol": "TM-TrueBit",
+        "description": "A scalable verification solution for blockchains",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "True Flip Lottery",
+        "symbol": "TFL",
+        "description": "Blockchain lottery",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "vDice.io",
+        "symbol": "vSlice",
+        "description": "Ethereum based betting game",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Vega",
+        "symbol": "VEGA token",
+        "description": "Decentralized Effective Funding",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "upcoming",
+        "name": "Vevue Project",
+        "symbol": "TM-VEVUE",
+        "description": "Crowdsourced videos from around the world",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "WeiFund",
+        "symbol": "TM-WEI",
+        "description": "A non-profit, decentralized, open-source equity crowdfunding platform built on Ethereum",
+        "chain": "Ethereum"
+    },
+    {
+        "status": "past",
+        "name": "WeTrust",
+        "symbol": "TRST",
+        "description": "Savings & Insurance Platform",
+        "chain": "Ethereum"
+    }
+]

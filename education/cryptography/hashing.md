@@ -1,1 +1,2 @@
 # Hashing
+You can think of a hash as a fingerprint. Everything on a computer has its own fingerprint, so if two things have the same hash, you know that they are copies of each other. This is really useful because you can use them to make sure everybody's **giant notebook** is the same. Instead of comparing **giant notebooks**, you can compare really small fingerprints. If they match, you know that the **giant notebooks** match.
