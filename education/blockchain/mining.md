@@ -1,5 +1,5 @@
 # [What is Mining?](#mining)
-You may have heard the term "mining" referred to when reading about cryptocurrencies and wondered what it is. Mining is the system that allows new transactions to get added to the blockchain. Mining is the act of checking that transactions are valid; that the user wishing to send the currency actually holds that amount, and that there isn't anything fishy going on. By doing this miners "secure" the blockchain and are rewarded for their efforts.
+You may have heard the term "mining" when reading about cryptocurrencies and wondered what it was. Mining is the system that allows new transactions to get added to the blockchain. Mining is the act of checking that transactions are valid: the user wishing to send the currency actually holds that amount, and that there isn't anything fishy going on. By doing this miners "secure" the blockchain and are rewarded for their efforts.
 
 Miners around the world belong to a network that together secure the blockchain. The actual act of "mining" is done on computers, by crunching numbers at speeds not possible by humans.
 
