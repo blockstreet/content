@@ -4,7 +4,7 @@ In 2008 a person (or group of people), using the name "Satoshi Nakamoto", releas
 ## [Side by Side Comparison](#analogy)
 Let's pretend there is a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example. On the left Alice pays Bob with a check, on the right she pays him using a cryptocurrency.
 
-<div class="table-anchor">
+<div class="table-anchor"></div>
 
 | Check | Cryptocurrency |
 | --- | --- |
