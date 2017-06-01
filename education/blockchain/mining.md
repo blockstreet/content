@@ -1,5 +1,5 @@
 # [What is Mining?](#mining)
-You may have heard the term "mining" referred to when reading about cryptocurrencies and wondered what it is. Mining is the system that allows new transactions to get added to the blockchain. Mining is the act of checking that transactions are valid; that the user wishing to send the currency actually holds that amount, and that there isn't anything fishy going on. By doing this miners "secure" the blockchain and are rewarded for their efforts.
+You may have heard the term "mining" when reading about cryptocurrencies and wondered what it was. Mining is the system that allows new transactions to get added to the blockchain. Mining is the act of checking that transactions are valid: the user wishing to send the currency actually holds that amount, and that there isn't anything fishy going on. By doing this miners "secure" the blockchain and are rewarded for their efforts.
 
 Miners around the world belong to a network that together secure the blockchain. The actual act of "mining" is done on computers, by crunching numbers at speeds not possible by humans.
 
@@ -13,17 +13,15 @@ So you start furiously pounding numbers into your calculator.
 
 Finally at 57 x 57 you see it! Yay! But just as you see it somebody else shouts "57!"
 
-"Great job, Billy! You get to keep or give out 5 extra credit points however you want! Tomorrow morning write on the whiteboard at the front of the class so everyone can see it, who you want to give those points to. You can also divide points into decimals if you'd like." The rest of the day you hear the stories of what people are offering to give to Billy for one of the extra credit points. Billy is the only student who holds extra credit points so he gets some pretty good offers. You are so jealous!
+"Great job, Billy! You get to keep or give out 5 extra credit points however you want! Tomorrow morning write on the whiteboard at the front of the class so everyone can see it, who you want to give those points to." The rest of the day you hear the stories of what people are offering to give to Billy for one of the extra credit points. You are so jealous!
 
-The next morning, Billy writes down the names of the 4 people who he decided to points to. Then the teacher says, "Every day only a maximum of 3 people can get points given to them by someone else. Whoever gets the answer to the next math problem gets to decide which 3 of the 4 points Billy gave to people get given out today. Ok, so what is the next number that will give you a '42' somewhere in it?"
+The next morning, Billy writes down the names of the 4 people who he decided to points to. The teacher says "Ok, so what is the next number that will give you a '42' somewhere in it?"
 
 The class immediately starts pounding on their calculators again! 58? No. 59? No. 60? No.
 
-10 minutes later Alice shouts out "64!" Same deal. She gets 4 extra credit points to use however she wants. Billy approaches her and offers her a tenth of a point to include the point he gave to his best friend Carl in the 3 transfers that get included today. She includes Billy to Carl first, then chooses 2 other transfers randomly and begins thinking of who she wants to give hers to.
+10 minutes later Alice shouts out "64!" Same deal. She gets 4 extra credit points to use however she wants.
 
-Other students begin to trying to trade for Alice's extra credit points. She knows Billy got a better deal because yesterday he was the only one with points, but now more people have them so she settles for less.
-
-While other kids are trading, you are looking at the problem and you sense a pattern. Being a bright kid you write a little program in your calculator to figure out the next answer. All your program does is take the last result and add one, then check to see if it works, over and over and over. Once it finds an answer, it's easy to check to make sure it works, but finding that answer is a boring process of checking every number against the formula. There simply is no better way!
+While other kids are bartering, you are looking at the problem and you sense a pattern. Being a bright kid you write a little program in your calculator to figure out the next answer. All your program does is take the last result and add one, then check to see if it works, over and over and over. Once it finds an answer, it's easy to check to make sure it works, but finding that answer is a boring process of checking every number against the formula. There simply is no better way!
 
 The next morning, you finally get the next number first! Your ingenuity paid off! But every kid in the class has the same calculator, and they all start writing their own programs. The teacher sees this and says, "Aha! I see that you've started automating the search! Well the rules are changing a little!"
 
