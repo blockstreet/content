@@ -1,9 +1,9 @@
-# [What is Mining?](#mining)
+# Mining
 You may have heard the term "mining" when reading about cryptocurrencies and wondered what it was. Mining is the system that allows new transactions to get added to the blockchain. Mining is the act of checking that transactions are valid: the user wishing to send the currency actually holds that amount, and that there isn't anything fishy going on. By doing this miners "secure" the blockchain and are rewarded for their efforts.
 
 Miners around the world belong to a network that together secure the blockchain. The actual act of "mining" is done on computers, by crunching numbers at speeds not possible by humans.
 
-### Mining Analogy
+### Analogy
 Imagine you are in a classroom and the teacher writes this word problem on the board:
 
 "What number when multiplied by itself equals a number with the digits '42' next to each other like that somewhere in the number? It could be 142, 242, ect." The first person to find it gets an extra credit point!"
@@ -37,9 +37,9 @@ The next morning, one of the other students named Sarah proudly claims the prize
 
 Sarah says "I just left it running all night! There was an answer when I woke up."
 
-## [Incentive](#incentive)
+## Proof of Work Vs. Proof of Stake
+Imagine you are at the theme park and there are two rollercoasters. Getting to ride the coaster is your reward. 
 
-## Proof of Work
+If you want to ride the PoW rollercoaster, then you have to compete in a race every 10 minutes. Whoever can run fastest wins the race and gets to ride. The same people tend to be fastest every race, and always get to ride. Slower runners rarely get a ride. People started forming relay teams (pools) to get a chance on the coaster, to split the reward.
 
-## Proof of Stake
-Imagine you are at the fairground and there are two rollercoasters, getting to ride the coaster is your reward, like signing the block and getting the coins in crypto. If you want to ride the PoW coaster, every 10 minutes there is a race, whoever can run fastest (has the fastest hashing equipment) wins the race and gets to ride. The same people tend to be fastest every race, and always get to ride, slower runners never get a ride. People started forming relay teams (pools) to get a chance on the coaster. The PoS rollercoaster is different, there are a bunch of queues in parallel, if you are rich you go in the rich queue and get to the front faster, but no matter how poor you are you always get a ride in the end. Who is chosen from the front of those parallel queues is random, but the VIP queue has less people in it so they progress to the front quicker. PoS uses coin balance x time since last transaction to build 'stake weight', higher stake weight makes you get to the front faster. Once you sign the block (ride the coaster) your stake weight is set to zero and time starts again (you go to the back of the queue system).
+The PoS rollercoaster is different, there are a bunch of queues in parallel, if you are rich you go in the rich queue and get to the front faster, but no matter how poor you are you always get a ride in the end. Who is chosen from the front of those parallel queues is random, but the VIP queue has less people in it so they progress to the front quicker. The PoS rollercoaster uses (how much money you have x time since last ride) to build 'stake weight'. The higher your stake weight, the faster you get to the front. Once you ride the coaster, your stake weight is set to zero and you go back to the back of the queue system.
