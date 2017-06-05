@@ -14,6 +14,7 @@ Let's pretend there is a person (Alice) owes another person (Bob) $10.  They liv
 | If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
 
 One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank. That is because the way we use money now is a centralized system, where the bank has the final say in how much money people have. If the bank makes a mistake, decides to steal people's money, or somehow forgets how much money people have, then anyone who trusted the bank could lose their money.
+
 The right hand column is uses a money system that is decentralized, which means a record of how much money people have is copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does, then Bob, Carl, and Dora will know that she is lying. If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) back.
 
 ## [Efficiency](#efficiency)
