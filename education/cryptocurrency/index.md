@@ -1,7 +1,7 @@
 # Cryptocurrency
 In 2008 a person (or group of people), using the name "Satoshi Nakamoto", released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also helped create the first cryptocurrency "Bitcoin", which over time has inspired people to create hundreds of other cryptocurrencies.
 
-## [Side by Side Comparison](#analogy)
+## Side by Side Comparison
 Let's pretend there is a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example. On the left Alice pays Bob with a check, on the right she pays him using a cryptocurrency.
 
 | Check | Cryptocurrency |
@@ -17,7 +17,7 @@ One thing you may have noticed in the left hand column is that we are putting a 
 
 The right hand column is uses a money system that is decentralized, which means a record of how much money people have is copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does, then Bob, Carl, and Dora will know that she is lying. If Carl's blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (**<lookup key="notebook">big notebook of transactions</lookup>**) back.
 
-## [Efficiency](#efficiency)
+## Efficiency
 Even though the decentralized system from the example above might look better than the way that uses a bank, you might think "If I have to tell every person about every transaction, that could take a long time. Wouldn't that make things really slow?".
 
 Thanks to computers, all of this can be done quickly and automatically without you ever needing to do anything. Since computers are getting faster all the time, Alice can do all of the steps in the right hand column above in less than a second!
