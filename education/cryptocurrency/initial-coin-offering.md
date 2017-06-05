@@ -1,5 +1,4 @@
 # Initial Coin Offerings (ICOs)
-
 Many open-source blockchain projects are raising capital via cryptocurrency crowdfunding, popularly known as 'initial coin offerings' (or ICOs). Similar to initial public offerings (IPOs) for the stock market, investors of a new cryptocurrency can provide early funding in return for a pre-determined amount of the new coins before the cryptocurrency is deployed. Once the coin is live and can be mined and/or traded on exchanges, investors are issued the amount of new coin invested into their wallets. ICOs have been considered ‘the future of fundraising’ since accessibility and simplicity are advantageous in comparison to private venture capital or public stock offerings.
  
 #### Why do individuals invest in ICOs?
