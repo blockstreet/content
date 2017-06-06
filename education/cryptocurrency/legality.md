@@ -2,7 +2,7 @@
  
 ## Are bitcoin and digital currencies legal?
  
-The short answer is yes. The use and trade of bitcoin is legal in all but a few countries today however its treatment as money or a commodity differs by location. The same cannot be said for cryptocurrencies other than bitcoin. While governments are still in an exploratory and educational stage with cryptocurrencies, they have made sure to warn the public of the risks involved in using, investing, or trading.
+The short answer is yes. The use and trade of bitcoin is legal in all but a few countries today however its treatment as money or a commodity differs by location. The same cannot yet be said for cryptocurrencies other than bitcoin. While governments are still in an exploratory and educational stage with cryptocurrencies, they have made sure to warn the public of the risks involved in using, investing, or trading. According to the Financial Crimes Enforcement Network (FinCEN) individuals who exchange virtual currency for goods and services are doing so legally, while those who create bitcoin (or mine) and invest in virtual currencies are not considered a money trasmitter nor subject to regulation.
  
 ## United States
  
@@ -14,5 +14,5 @@ Additionally, popular exchanges such as [Coinbase](https://support.coinbase.com/
  
 - Both Australia and Japan have recognized bitcoin as a method of payment and will be treating it as such in 2017.
 - The European Banking Authority (EBA) has classified bitcoin as a convertible decentralized virtual currency, but advise European banks not to deal in virtual currencies until a regulatory regime is in place.
-- The People’s Bank of China (PBoC) has stated plans to launch their own cryptocurrency, however have limited or banned cryptocurrency trading and investing to citizens in the past. Since interest and use of digital currency in China is among the highest internationally, such actions have caused the price of bitcoin to move drastically in past years.
+- The People’s Bank of China (PBoC) has stated plans to launch their own cryptocurrency despite limiting and banning cryptocurrency activities in the past. Since interest and use of digital currency in China is among the highest internationally, such actions have caused the price of bitcoin to move drastically in past years.
 - [The Bitcoin Foundation](https://bitcoinfoundation.org/), [Chamber of Digital Commerce](https://digitalchamber.org/), and other committees have formed to address policy and regulatory action for blockchain and digital currency technology.
