@@ -13,14 +13,14 @@
         "chain": "Ethereum"
     },
     {
-        "status": "upcoming",
+        "status": "past",
         "name": "Aragon",
         "symbol": "ANT",
         "description": "Create value without borders or intermediaries",
         "chain": "Ethereum"
     },
     {
-        "status": "active",
+        "status": "past",
         "name": "Augur",
         "symbol": "REP",
         "description": "Prediction market platform",
@@ -104,14 +104,14 @@
         "chain": "Ethereum"
     },
     {
-        "status": "active",
+        "status": "past",
         "name": "DigixDAO",
         "symbol": "DGD",
         "description": "DAO that sells gold with Ethereum based coins",
         "chain": "Ethereum"
     },
     {
-        "status": "active",
+        "status": "past",
         "name": "E4ROW",
         "symbol": "E4ROW",
         "description": "Ether for the rest of the world",
@@ -129,13 +129,6 @@
         "name": "Elephant",
         "symbol": "ELCOIN",
         "description": "Multifunctional economic platform for businesses",
-        "chain": "Ethereum"
-    },
-    {
-        "status": "active",
-        "name": "Ether",
-        "symbol": "ETH",
-        "description": "Open source platform to write and distribute decentralized applications.",
         "chain": "Ethereum"
     },
     {
@@ -216,7 +209,7 @@
         "chain": "Ethereum"
     },
     {
-        "status": "undetermined",
+        "status": "past",
         "name": "Iconomi",
         "symbol": "ICN",
         "description": "Investment fund management platform for the decentralised economy",
@@ -286,7 +279,7 @@
         "chain": "Ethereum"
     },
     {
-        "status": "upcoming",
+        "status": "past",
         "name": "Mysterium Network",
         "symbol": "MYST",
         "description": "Decentralised VPN service built on blockchain",
@@ -370,7 +363,7 @@
         "chain": "Ethereum"
     },
     {
-        "status": "active",
+        "status": "past",
         "name": "SingularDTV",
         "symbol": "SNGLS",
         "description": "Blockchain film and television studio & distribution portal",
