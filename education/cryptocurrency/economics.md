@@ -2,7 +2,7 @@
 You may be wondering how cryptocurrencies are worth any real money. The very concept of cryptocurrency is to be a store of value for online transactions and are very differerent from government issued money (fiat). There a few concepts behind cryptocurrency that not only make it hold value, but increase it as well. The two major concepts are supply & demand, and inflation & deflation. Together, these determine the price of a cryptocurrency.
 
 ## Supply & Demand
-The primary forces that determine the value of anything are supply & demand. Supply is how much of something is available. For example, dirt is something with a very high supply, thus it is not very valuable. Demand is how much people desire something. For example, gold is somethign with high a very high demandm, thus it is very valuable.
+The primary forces that determine the value of anything are supply & demand. Supply is how much of something is available. For example, dirt is something with a very high supply, thus it is not very valuable. Demand is how much people desire something. For example, gold is something with high a very high demand, thus it is very valuable.
 
 
 
