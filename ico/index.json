@@ -24,6 +24,8 @@
         "name": "Augur",
         "symbol": "REP",
         "description": "Prediction market platform",
+        "date": "August 17th, 2017",
+        "supply": "",
         "chain": "Ethereum"
     },
     {
@@ -31,6 +33,8 @@
         "name": "Back to Earth",
         "symbol": "SRC",
         "description": "Cryptocurrency to unlock in-game content",
+        "date": "April 26th, 2017",
+        "supply": "4,410,519",
         "chain": "Ethereum"
     },
     {
@@ -38,6 +42,7 @@
         "name": "BANCOR Network",
         "symbol": "BGT",
         "description": "A hierachical monetary system",
+        "date": "June 12, 2017"
         "chain": "Ethereum"
     },
     {
@@ -45,13 +50,8 @@
         "name": "Basic Attention Token",
         "symbol": "BAT",
         "description": "Introducing blockchain-based advertising",
-        "chain": "Ethereum"
-    },
-    {
-        "status": "past",
-        "name": "Beyond The Void",
-        "symbol": "NEXIUMS",
-        "description": "Real-time strategy video game",
+        "date": " May 31, 2017",
+        "supply": "1,000,000,000"
         "chain": "Ethereum"
     },
     {
@@ -76,17 +76,12 @@
         "chain": "Ethereum"
     },
     {
-        "status": "upcoming",
-        "name": "Borg DAO",
-        "symbol": "BRG",
-        "description": "The Borg DAO will help to stimulate development on Ethereum Classic, by incentivizing developers to support the ETC blockchain for their DApps and to integrate their applications into the Borg DAO.",
-        "chain": "Ethereum"
-    },
-    {
         "status": "past",
         "name": "Branche",
         "symbol": "BLT",
         "description": "Decentralized Consumer Micro­credit and Financial Services",
+        "date": "December 5th, 2016",
+        "supply": "39,125",
         "chain": "Ethereum"
     },
     {
@@ -94,6 +89,8 @@
         "name": "ChronoBank",
         "symbol": "LH",
         "description": "Time based currencies on multiple blockchains",
+        "date": "December 15th, 2016",
+        "supply": "710,112",
         "chain": "Ethereum"
     },
     {
@@ -108,13 +105,17 @@
         "name": "DigixDAO",
         "symbol": "DGD",
         "description": "DAO that sells gold with Ethereum based coins",
+        "date": "March 2016",
+        "supply": "",
         "chain": "Ethereum"
     },
     {
         "status": "past",
         "name": "E4ROW",
         "symbol": "E4ROW",
-        "description": "Ether for the rest of the world",
+        "description": "Ether for the rest of the world",,
+        "date": "May 2nd, 2017",
+        "supply": "",
         "chain": "Ethereum"
     },
     {
@@ -122,6 +123,8 @@
         "name": "Edgeless",
         "symbol": "EDG",
         "description": "Decentralized Casino",
+        "date": "February 28st, 2017",
+        "supply": "440,000,000",
         "chain": "Ethereum"
     },
     {
@@ -132,38 +135,12 @@
         "chain": "Ethereum"
     },
     {
-        "status": "undetermined",
-        "name": "Ether Design",
-        "symbol": "TM-ETHERDESIGN",
-        "description": "Decentralized design sourcing",
-        "chain": "Ethereum"
-    },
-    {
-        "status": "upcoming",
-        "name": "Etherex",
-        "symbol": "ETHEREX",
-        "description": "Fully decentralized cryptocurrency exchange",
-        "chain": "Ethereum"
-    },
-    {
-        "status": "undetermined",
-        "name": "Etherisc",
-        "symbol": "RSC",
-        "description": "A decentralized insurance and reinsurance marketplace",
-        "chain": "Ethereum"
-    },
-    {
-        "status": "active",
-        "name": "Expanse",
-        "symbol": "EXP",
-        "description": "Decentralized information, application, and contract platform",
-        "chain": "Ethereum"
-    },
-    {
         "status": "past",
         "name": "FirstBlood",
         "symbol": "1ST",
         "description": "A token for participating eSports matches and betting",
+        "date": "September 26th, 2016",    
+        "supply": "85,558,363",
         "chain": "Ethereum"
     },
     {
@@ -171,6 +148,7 @@
         "name": "FundRequest",
         "symbol": "FND",
         "description": "Platform for rewarding open source contributions",
+        "date": "July 1st, 2017",
         "chain": "Ethereum"
     },
     {
@@ -206,6 +184,8 @@
         "name": "Humaniq",
         "symbol": "TM-Humaniq Token",
         "description": "Decentralized Banking",
+        "date": "April 6th, 2017",
+        "supply": "",
         "chain": "Ethereum"
     },
     {
