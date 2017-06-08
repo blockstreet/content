@@ -1,0 +1,2 @@
+# Decentralization
+One of the reasons cryptocurrencies have been getting more popular in the last few years is that they are a type of money that is decentralized. This means that there is no part of the system that has more information or power than any other part. Think of it like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if you try to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.

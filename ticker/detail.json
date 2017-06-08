@@ -1,0 +1,604 @@
+[{
+        "id": "bitcoin",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "description": "Bitcoin was the first kind of money to be based on a blockchain. It lets people pay one another just like with paper bills or credit cards, and has been built to make sure that money cannot be lost or stolen. Bitcoin is listed in cryptocurrency exchange sites as BTC, and has a stock supply (usually called coins or tokens). Unlike most other forms of money, these coins can be broken down into smaller parts so that you can pay someone with fractions of coins. A coin can represent almost anything, but usually coins are used to represent dollars. As of March 2017 each coin is worth $1,059 giving it a $17.2B market capitalization."
+    },
+    {
+        "id": "ripple",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "description": "Ripple is is a real-time gross settlement system (RTGS), currency exchange and remittance network by Ripple. Also called the Ripple Transaction Protocol (RTXP) or Ripple protocol, it is built upon a distributed open source Internet protocol, consensus ledger and native currency called XRP (ripples).  Released in 2012, Ripple purports to enable \"secure, instant and nearly free global financial transactions of any size with no chargebacks.\" It supports tokens representing fiat currency, cryptocurrency, commodity or any other unit of value such as frequent flier miles or mobile minutes. Using Ripple, banks can meet growing demands for faster, low-cost, on-demand global payment services for any payment size. The result: new revenue opportunities, lower processing costs, and better overall customer experiences. As of 2017 Ripple is the 3rd largest cryptocurrency with a market capitalization of $1,229,979,509."
+    },
+    {
+        "id": "ethereum",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "description": "Ethereum is a cryptocurrency that was made to run \"smart contracts\". A smart contract is a computer program that, once it starts, cannot be stopped until it has run all the way through. This idea can be used for many different applications; from paying for a taxi ride to giving away money in a will. Like Bitcoin it was built on a blackchain to make sure that security is a number one priority. Smart contracts are made with a special programming language and are run on a browser called Mist. It has the 2nd largest market capitalization (valued at $3.74B)."
+    },
+    {
+        "id": "litecoin",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "description": "Litecoin is the digital currency of lightning network which sends Scalable, Instant Bitcoin/Blockchain Transactions. Lightning is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants. The Lightning Network is dependent upon the underlying technology of the blockchain. By using real Bitcoin/blockchain transactions and using its native smart-contract scripting language, it is possible to create a secure network of participants which are able to transact at high volume and high speed. Litecoin is the 5th largest cryptocurrency with a market capitalization of $409,641,125."
+    },
+    {
+        "id": "nem",
+        "name": "NEM",
+        "symbol": "XEM",
+        "description": ""
+    },
+    {
+        "id": "dash",
+        "name": "Dash",
+        "symbol": "DASH",
+        "description": "Dash is another cryptocurrency that was made to be used as digital cash. Dash uses technologies built by other cryptocurrencies to try to be the most secure and the fastest cryptocurrency there is. Dash uses many strategies to make sure that every transaction is as secure as possible. Dash also focuses on making its product easy to use. Purchases from websites or mobile apps using Dash should be simple, sometimes needing only a single click."
+    },
+    {
+        "id": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "symbol": "ETC",
+        "description": ""
+    },
+    {
+        "id": "monero",
+        "name": "Monero",
+        "symbol": "XMR",
+        "description": "Monero is a secure, private, untraceable currency. It is open-source and freely available to all. With Monero, you are your own bank. Only you control and are responsible for your funds, and your accounts and transactions are kept private from prying eyes. Monero has the 6th largest market capitalization sitting at
+        $290,
+        030,
+        395. "
+    },
+    {
+        "id": "stellar",
+        "name": "Stellar Lumens",
+        "symbol": "XLM",
+        "description": ""
+    },
+    {
+        "id": "steem",
+        "name": "Steem",
+        "symbol": "STEEM",
+        "description": ""
+    },
+    {
+        "id": "augur",
+        "name": "Augur",
+        "symbol": "REP",
+        "description": ""
+    },
+    {
+        "id": "golem-network-tokens",
+        "name": "Golem",
+        "symbol": "GNT",
+        "description": ""
+    },
+    {
+        "id": "maidsafecoin",
+        "name": "MaidSafeCoin",
+        "symbol": "MAID",
+        "description": ""
+    },
+    {
+        "id": "waves",
+        "name": "Waves",
+        "symbol": "WAVES",
+        "description": ""
+    },
+    {
+        "id": "round",
+        "name": "Round",
+        "symbol": "ROUND",
+        "description": ""
+    },
+    {
+        "id": "gnosis-gno",
+        "name": "Gnosis",
+        "symbol": "GNO",
+        "description": ""
+    },
+    {
+        "id": "zcash",
+        "name": "Zcash",
+        "symbol": "ZEC",
+        "description": ""
+    },
+    {
+        "id": "dogecoin",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "description": ""
+    },
+    {
+        "id": "stratis",
+        "name": "Stratis",
+        "symbol": "STRAT",
+        "description": ""
+    },
+    {
+        "id": "bitshares",
+        "name": "BitShares",
+        "symbol": "BTS",
+        "description": ""
+    },
+    {
+        "id": "singulardtv",
+        "name": "SingularDTV",
+        "symbol": "SNGLS",
+        "description": ""
+    },
+    {
+        "id": "digixdao",
+        "name": "DigixDAO",
+        "symbol": "DGD",
+        "description": ""
+    },
+    {
+        "id": "gamecredits",
+        "name": "GameCredits",
+        "symbol": "GAME",
+        "description": ""
+    },
+    {
+        "id": "ardor",
+        "name": "Ardor",
+        "symbol": "ARDR",
+        "description": ""
+    },
+    {
+        "id": "bytecoin-bcn",
+        "name": "Bytecoin",
+        "symbol": "BCN",
+        "description": ""
+    },
+    {
+        "id": "factom",
+        "name": "Factom",
+        "symbol": "FCT",
+        "description": ""
+    },
+    {
+        "id": "decred",
+        "name": "Decred",
+        "symbol": "DCR",
+        "description": ""
+    },
+    {
+        "id": "siacoin",
+        "name": "Siacoin",
+        "symbol": "SC",
+        "description": ""
+    },
+    {
+        "id": "nxt",
+        "name": "Nxt",
+        "symbol": "NXT",
+        "description": ""
+    },
+    {
+        "id": "tether",
+        "name": "Tether",
+        "symbol": "USDT",
+        "description": ""
+    },
+    {
+        "id": "lisk",
+        "name": "Lisk",
+        "symbol": "LSK",
+        "description": ""
+    },
+    {
+        "id": "pivx",
+        "name": "PIVX",
+        "symbol": "PIVX",
+        "description": ""
+    },
+    {
+        "id": "iconomi",
+        "name": "Iconomi",
+        "symbol": "ICN",
+        "description": ""
+    },
+    {
+        "id": "bitconnect",
+        "name": "BitConnect",
+        "symbol": "BCC",
+        "description": ""
+    },
+    {
+        "id": "peercoin",
+        "name": "Peercoin",
+        "symbol": "PPC",
+        "description": ""
+    },
+    {
+        "id": "byteball",
+        "name": "Byteball",
+        "symbol": "GBYTE",
+        "description": ""
+    },
+    {
+        "id": "emercoin",
+        "name": "Emercoin",
+        "symbol": "EMC",
+        "description": ""
+    },
+    {
+        "id": "firstblood",
+        "name": "FirstBlood",
+        "symbol": "1ST",
+        "description": ""
+    },
+    {
+        "id": "rlc",
+        "name": "iExec RLC",
+        "symbol": "RLC",
+        "description": ""
+    },
+    {
+        "id": "syscoin",
+        "name": "SysCoin",
+        "symbol": "SYS",
+        "description": ""
+    },
+    {
+        "id": "storjcoin-x",
+        "name": "Storjcoin X",
+        "symbol": "SJCX",
+        "description": ""
+    },
+    {
+        "id": "komodo",
+        "name": "Komodo",
+        "symbol": "KMD",
+        "description": ""
+    },
+    {
+        "id": "bcap",
+        "name": "BCAP",
+        "symbol": "BCAP",
+        "description": ""
+    },
+    {
+        "id": "namecoin",
+        "name": "Namecoin",
+        "symbol": "NMC",
+        "description": ""
+    },
+    {
+        "id": "lykke",
+        "name": "Lykke",
+        "symbol": "LKK",
+        "description": ""
+    },
+    {
+        "id": "antshares",
+        "name": "AntShares",
+        "symbol": "ANS",
+        "description": ""
+    },
+    {
+        "id": "counterparty",
+        "name": "Counterparty",
+        "symbol": "XCP",
+        "description": ""
+    },
+    {
+        "id": "melon",
+        "name": "Melon",
+        "symbol": "MLN",
+        "description": ""
+    },
+    {
+        "id": "wings",
+        "name": "Wings",
+        "symbol": "WINGS",
+        "description": ""
+    },
+    {
+        "id": "nexus",
+        "name": "Nexus",
+        "symbol": "NXS",
+        "description": ""
+    },
+    {
+        "id": "ark",
+        "name": "Ark",
+        "symbol": "ARK",
+        "description": ""
+    },
+    {
+        "id": "xaurum",
+        "name": "Xaurum",
+        "symbol": "XAUR",
+        "description": ""
+    },
+    {
+        "id": "tokencard",
+        "name": "TokenCard",
+        "symbol": "TKN",
+        "description": ""
+    },
+    {
+        "id": "gulden",
+        "name": "Gulden",
+        "symbol": "NLG",
+        "description": ""
+    },
+    {
+        "id": "bitcoindark",
+        "name": "BitcoinDark",
+        "symbol": "BTCD",
+        "description": ""
+    },
+    {
+        "id": "burst",
+        "name": "Burst",
+        "symbol": "BURST",
+        "description": ""
+    },
+    {
+        "id": "digibyte",
+        "name": "DigiByte",
+        "symbol": "DGB",
+        "description": ""
+    },
+    {
+        "id": "potcoin",
+        "name": "PotCoin",
+        "symbol": "POT",
+        "description": ""
+    },
+    {
+        "id": "nav-coin",
+        "name": "NAV Coin",
+        "symbol": "NAV",
+        "description": ""
+    },
+    {
+        "id": "synereo",
+        "name": "Synereo",
+        "symbol": "AMP",
+        "description": ""
+    },
+    {
+        "id": "chronobank",
+        "name": "Chronobank",
+        "symbol": "TIME",
+        "description": ""
+    },
+    {
+        "id": "trust",
+        "name": "WeTrust",
+        "symbol": "TRST",
+        "description": ""
+    },
+    {
+        "id": "blackcoin",
+        "name": "BlackCoin",
+        "symbol": "BLK",
+        "description": ""
+    },
+    {
+        "id": "bitbay",
+        "name": "BitBay",
+        "symbol": "BAY",
+        "description": ""
+    },
+    {
+        "id": "expanse",
+        "name": "Expanse",
+        "symbol": "EXP",
+        "description": ""
+    },
+    {
+        "id": "ybcoin",
+        "name": "YbCoin",
+        "symbol": "YBC",
+        "description": ""
+    },
+    {
+        "id": "bankcoin",
+        "name": "Bankcoin",
+        "symbol": "B@",
+        "description": ""
+    },
+    {
+        "id": "guppy",
+        "name": "Matchpool",
+        "symbol": "GUP",
+        "description": ""
+    },
+    {
+        "id": "gridcoin",
+        "name": "GridCoin",
+        "symbol": "GRC",
+        "description": ""
+    },
+    {
+        "id": "ubiq",
+        "name": "Ubiq",
+        "symbol": "UBQ",
+        "description": ""
+    },
+    {
+        "id": "zcoin",
+        "name": "ZCoin",
+        "symbol": "XZC",
+        "description": ""
+    },
+    {
+        "id": "edgeless",
+        "name": "Edgeless",
+        "symbol": "EDG",
+        "description": ""
+    },
+    {
+        "id": "swarm-city",
+        "name": "Swarm City",
+        "symbol": "SWT",
+        "description": ""
+    },
+    {
+        "id": "crown",
+        "name": "Crown",
+        "symbol": "CRW",
+        "description": ""
+    },
+    {
+        "id": "agoras-tokens",
+        "name": "Agoras Tokens",
+        "symbol": "AGRS",
+        "description": ""
+    },
+    {
+        "id": "zclassic",
+        "name": "ZClassic",
+        "symbol": "ZCL",
+        "description": ""
+    },
+    {
+        "id": "library-credit",
+        "name": "LBRY Credits",
+        "symbol": "LBC",
+        "description": ""
+    },
+    {
+        "id": "clams",
+        "name": "Clams",
+        "symbol": "CLAM",
+        "description": ""
+    },
+    {
+        "id": "creditbit",
+        "name": "Creditbit",
+        "symbol": "CRB",
+        "description": ""
+    },
+    {
+        "id": "iocoin",
+        "name": "I/O Coin",
+        "symbol": "IOC",
+        "description": ""
+    },
+    {
+        "id": "bitcrystals",
+        "name": "Bitcrystals",
+        "symbol": "BCY",
+        "description": ""
+    },
+    {
+        "id": "earthcoin",
+        "name": "EarthCoin",
+        "symbol": "EAC",
+        "description": ""
+    },
+    {
+        "id": "global-currency-reserve",
+        "name": "Global Currency Reserve",
+        "symbol": "GCR",
+        "description": ""
+    },
+    {
+        "id": "rubycoin",
+        "name": "Rubycoin",
+        "symbol": "RBY",
+        "description": ""
+    },
+    {
+        "id": "nexium",
+        "name": "Nexium",
+        "symbol": "NXC",
+        "description": ""
+    },
+    {
+        "id": "monacoin",
+        "name": "MonaCoin",
+        "symbol": "MONA",
+        "description": ""
+    },
+    {
+        "id": "radium",
+        "name": "Radium",
+        "symbol": "RADS",
+        "description": ""
+    },
+    {
+        "id": "vslice",
+        "name": "vSlice",
+        "symbol": "VSL",
+        "description": ""
+    },
+    {
+        "id": "vertcoin",
+        "name": "Vertcoin",
+        "symbol": "VTC",
+        "description": ""
+    },
+    {
+        "id": "novacoin",
+        "name": "Novacoin",
+        "symbol": "NVC",
+        "description": ""
+    },
+    {
+        "id": "skycoin",
+        "name": "Skycoin",
+        "symbol": "SKY",
+        "description": ""
+    },
+    {
+        "id": "taas",
+        "name": "TaaS",
+        "symbol": "TAAS",
+        "description": ""
+    },
+    {
+        "id": "vpncoin",
+        "name": "VPNCoin",
+        "symbol": "VASH",
+        "description": ""
+    },
+    {
+        "id": "pepe-cash",
+        "name": "Pepe Cash",
+        "symbol": "PEPECASH",
+        "description": ""
+    },
+    {
+        "id": "viacoin",
+        "name": "Viacoin",
+        "symbol": "VIA",
+        "description": ""
+    },
+    {
+        "id": "omni",
+        "name": "Omni",
+        "symbol": "OMNI",
+        "description": ""
+    },
+    {
+        "id": "blocknet",
+        "name": "Blocknet",
+        "symbol": "BLOCK",
+        "description": ""
+    },
+    {
+        "id": "florincoin",
+        "name": "FlorinCoin",
+        "symbol": "FLO",
+        "description": ""
+    },
+    {
+        "id": "waves-community-token",
+        "name": "Waves Community Token",
+        "symbol": "WCT",
+        "description": ""
+    },
+    {
+        "id": "solarcoin",
+        "name": "SolarCoin",
+        "symbol": "SLR",
+        "description": ""
+    }
+]
