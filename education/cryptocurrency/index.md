@@ -1,23 +1,21 @@
-# Cryptocurrency
-In 2008 a person (or group of people), using the name "Satoshi Nakamoto", released a paper describing a digital currency system controlled by every user of the system by using something he called a "Blockchain". This paper also helped create the first cryptocurrency "Bitcoin", which over time has inspired people to create hundreds of other cryptocurrencies.
+# [What is Cryptocurrency?](#what-is-cryptocurrency)
+Crypto is a short way to say cryptography, which is the study of using math to keep something secret and safe. So when you put “crypto” and “currency” together, you get cryptocurrency; money that is kept safe using math.
 
-## Side by Side Comparison
-Let's pretend there is a person (Alice) owes another person (Bob) $10.  They live in a neighborhood with Carl and Dora, who will help us in the example. On the left Alice pays Bob with a check, on the right she pays him using a cryptocurrency.
+## [Where did it all begin?](#the-beginning)
+In 2008, a person (or group of people) under the name "Satoshi Nakamoto" wrote a paper about a digital money system he called "Bitcoin", which used something he called a "Blockchain". Bitcoin has inspired other people to create hundreds of other cryptocurrencies since then
+
+## [What makes it so exciting?](#why-the-hype)
+One of the reasons cryptocurrencies are gaining popularity is that they are a type of money that is decentralized. This means that banks don't have the final say when it comes to your money.
+
+## [Blockchains](#blockchains)
+A blockchain is a list of messages, and part of each message is the time the message was sent - like a **<lookup key="notebook">big notebook</lookup>** with page numbers. Cryptocurrencies use a blockchain to keep track of how much money people have.
+
+## [Side by Side Comparison](#analogy)
+To help understand how cryptocurrencies work, let's pretend there is a person (Alice) who owes another person (Bob) $10. On the left, Alice pays Bob with a check, on the right, she pays him using a crytocurrency.
 
 | Check | Cryptocurrency |
 | --- | --- |
-| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that her digital wallets address wants to send $10 worth of coins to Bob's digital wallets address |
-| Alice signs the check in cursive, using a pen | Alice uses her private keys to sign put her digital signature on her note  |
-| Alice gives the check to Bob | Alice posts the note on the blockchain (big notebook of transactions) where everyone can see |
-| Alice's bank makes sure that the signature on the check matches the signature they have on file for her | Bob, Carl, and Dora use Alice's public key to make sure that the note was written by Alice |
-| Alice's bank makes sure that Alice's account has at least $10 in it | Bob, Carl, and Dora all check their copies of the blockchain (big notebook of transactions) to make sure that Alice has at least $10 worth of coins |
-| If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, Alice, Bob, Carl, and Dora write down in their copies of the blockchain (big notebook of transactions) that $10 worth of coins was taken from her account and added to Bob's account.  If not Alice is told she doesn't have enough money |
-
-One thing you may have noticed in the left hand column is that we are putting a lot of trust into the bank. That is because the way we use money now is a centralized system, where the bank has the final say in how much money people have. If the bank makes a mistake, decides to steal people's money, or somehow forgets how much money people have, then anyone who trusted the bank could lose their money.
-
-The right hand column is uses a money system that is decentralized, which means a record of how much money people have is copied by every member of the neighborhood. If Alice tries to say that she has more money than she really does, then Bob, Carl, and Dora will know that she is lying. If Carl's blockchain (big notebook of transactions) is lost or ruined somehow, he can just ask Alice, Bob, or Dora to show him their copy, and Carl can get his lost blockchain (big notebook of transactions) back.
-
-## Efficiency
-Even though the decentralized system from the example above might look better than the way that uses a bank, you might think "If I have to tell every person about every transaction, that could take a long time. Wouldn't that make things really slow?".
-
-Thanks to computers, all of this can be done quickly and automatically without you ever needing to do anything. Since computers are getting faster all the time, Alice can do all of the steps in the right hand column above in less than a second!
+| Alice writes a $10 check with Bob's name on the "to" line | Alice writes a note saying that she wants to send Bob $10 |
+| Alice gives the check to Bob | Alice posts the note on the blockchain (**<lookup key="notebook">big notebook</lookup>**) where anyone can see |
+| Alice's bank makes sure that Alice's account has at least $10 in it | Bob checks his copy of the blockchain (**<lookup key="notebook">big notebook</lookup>**) to make sure that Alice has at least $10 worth of coins |
+| If Alice has enough money, $10 is taken from her account and added to Bob's account.  If not then she is told she doesn't have enough money | If Alice has enough money, she and Bob write a new message in their copies of the blockchain (**<lookup key="notebook">big notebook</lookup>**) that $10 worth of coins was taken from her account and added to Bob's account. If Alice doesn't have enough money, Bob will tell her |
