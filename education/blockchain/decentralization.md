@@ -1,2 +1,5 @@
 # Decentralization
-One of the reasons cryptocurrencies are growing in popularity is that they are a type of money that is decentralized. This means that there is no part of the system that has more information or power than any other part. It's like playing poker at a table where any player can see the chips that every other player has, and everybody's cards are face up - if anyone tries to lie, everyone will know. Most cryptocurrencies are based on decentralized systems.
+Most cryptocurrencies are decentralized, which means that nobody who owns cryptocurrency has more information or power than anyone else. 
+
+## Think of it like this
+It's like playing poker; since every player can see how many chips every other player has, nobody can get away with saying they have more money than they really do.
