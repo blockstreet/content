@@ -1,2 +1,0 @@
-## Public and Private Keys
-Private and public keys are the building blocks for **digital signatures**, and their names give us hints about how they are used. A private (sometimes called secret) key is a key that you keep hidden from everybody else; you use your private key to put your **digital signature** on something. A public key is a key that you share with the entire world; other people use your public key to make sure that your **digital signature** is actually yours.
