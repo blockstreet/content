@@ -12,7 +12,7 @@ Trading platforms are exchanges that give their users more flexibility when it c
 - [Poloniex](https://poloniex.com)
 
 ## Exchange Wallets
-Exchange wallets are a simplified version of trading platforms. They allow users to buy cryptocurrency at the market rate using one of many payment methods. Depending on the Exchange, bank wires, ACH transfers, and credit / debit card purchases are all allowed to make it as easy as possible to buy cryptocurrency. Purchases made are made at the market price instead of a rate specified by the user. Fees are usually higher for both buying and selling from exchange wallets.
+Exchange wallets are a simplified version of trading platforms. They allow users to buy cryptocurrency at the market rate using one of many payment methods. Depending on the exchange, bank wires, ACH transfers, and credit / debit card purchases are all allowed to make it as easy as possible to buy cryptocurrency. Purchases made are made at the market price instead of a rate specified by the user. Fees are usually higher for both buying and selling from exchange wallets.
 
 Exchange wallets let people buy cryptocurrency without having money in an exchange. Instead the wallet uses money directly from from the buyer's bank account.
 
