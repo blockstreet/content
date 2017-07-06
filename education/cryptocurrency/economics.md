@@ -1,33 +1,31 @@
 # Economics
-You may be wondering how cryptocurrencies are worth any real money. The very concept of cryptocurrency is to be a store of value for online transactions and are very differerent from government issued money (fiat). There a few concepts behind cryptocurrency that not only make it hold value, but increase it as well. The two major concepts are supply & demand, and inflation & deflation. Together, these determine the price of a cryptocurrency.
+The point of cryptocurrencies is to be just like government issued money (fiat, like the US dollar), except that there is no one group that is in control of the money (which is why we call it decentralized). The main things that affect the price of cryptocurrencies are supply & demand, and inflation & deflation.
 
 ## Supply & Demand
-The primary forces that determine the value of anything are supply & demand. Supply is how much of something is available. For example, dirt is something with a very high supply, thus it is not very valuable. Demand is how much people desire something. For example, gold is something with high a very high demand, thus it is very valuable.
-
-
+The strongest forces that control the value of something are supply & demand. Supply is how much of something is available, and demand is how much people want to buy it. If something has a high supply or a low demand, its price will be low. If something has a low supply or a high demand, its price will be high.
 
 ## Inflation & Deflation
-
+It might sound weird, but supply and demand can even affect how much money is worth. When a government prints fiat (for example the US dollar), they are increasing the supply of that fiat. When its supply goes up, its worth goes down; this is called inflation. The same thing happens to cryptocurrencies; when more coins are created, each coin is worth a little bit less than it used to be. Deflation is the opposite of inflation. If a government stopped printing fiat, the supply would go down (becuase of all the money that gets lost or destroyed), which would make the fiat worth more. Similar to fiat, if a cryptocurrency stops mining new coins, each coin will become worth a little bit more than it used to be
 
 ### What makes it valuable?
-You may be wondering how cryptocurrencies are worth real money. Let's break it down using a familiar example.
+Let's use an example to show what makes a cryptocurrency valuable.
 
-**The US Dollar**: a currency used to buy things in the United States. A dollar is simply a piece of paper with some numbers on it. What makes it worth anything more than a cryptocurrency? You may be thinking, "isn't the dollar backed by gold?", but you'd be wrong. It hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm). But to keep it simple, lets pretend we took a small trip back in time. Gold has intrinsic value. It can be made into jewelry, it's conductive, so it can be used in electrical stuff (such as your computer or smartphone) yet doesn't rust, unlike copper. While it is possible to make gold, the amount of money that it costs is more than the money you could get from selling it, which means there is a limited amount of it. These reasons show why gold has value. But what about cryptocurrencies?
+**The US Dollar** is a currency used to buy things in the United States. A dollar is a piece of paper with some numbers on it. What makes it worth anything? A few decades ago, the US dollar was backed by gold, meaning that for every dollar that existed, there was a little bit of gold being held in a safe somewhere. If you wanted, you could trade your dollar for that gold. But the dollar hasn't been backed by gold since [1934](https://www.federalreserve.gov/faqs/currency_12770.htm). If we went back in time to 1933, we could say that the dollar had value because it could be traded for gold, but now that isn't really true...the dollar has value now because everyone agrees that it has value.
 
 #### Are cryptocurrencies a limited resource?
-For most cryptocurrencies, there is a limited number of "coins" that can be available at any given time. You can't simply "create" a bitcoin and add it to your wallet, due to cryptography and transaction logging. Coins are currently created by "miners" who form the backbone of any cryptocurrency. Mining often requires much more computing power than the average person has access to, but fortunately for us, we do not need to be a miner in order to use cryptocurrency.
+For most cryptocurrencies, there is a limited number of coins that are available at any given time. You can't just "create" a bitcoin out of nowhere and add it to your wallet. New coins are created by "mining", which is similar to a government printing new money. Mining creates coins at a predetermined rate however, and is not controlled by anyone. Some currencies have a maximum number of coins that can ever be created, making them a limited resource.
 
 #### Do they have intrinsic value?
-Well, yes and no. For example, Bitcoin can be seen as a "store of value" with its price being depending on supply and demand. The more people that think bitcoins are worth something, the more people buy into it and the price goes up. Other forms of cryptocurrencies may have value because their blockchains provide the capability to run "smart contracts" which are a list of actions that run according to a plan. Smart contracts are a new concept but they are believed to provide safe ways of ensuring that two or more parties hold up their end of a bargain. For instance, a smart contract could be made to automatically pay the pizza company when the delivery man drops off the pizza. If the pizza never arrives, then the company never gets paid. But if the pizza does arrive, then the customer cannot take the pizza and refuse to pay.
+It depends on the cryptocurrency. For example, Bitcoin is very similar to the US dollar, so its price depends on both supply & demand and inflation & deflation. Other cryptocurrencies (for example Ethereum) have value because their coins are backed by something else. Ethereum is backed by computer programs, so you can exchange your coins to run programs if you want.
 
 ## Who buys cryptocurrencies?
 There are a lot of different people who buy cryptocurrencies. There are many currencies, each trying to solve existing problems of the centralized systems, or create new applications using blockchain technology.
 
 #### Day Traders
-Just like in the stock market there are people who want to profit from the changing prices of cryptocurrencies. They purchase a currency when the price is low and sell it when the price is high. Many cryptocurrencies change price much more quickly than stocks and are able to gain or lose over 20% of their value in a single day. This makes for a very profitable outcome if a trader is able to time the market ups and downs.
+Just like in the stock market, there are people who want to make money based on the changing prices of cryptocurrencies. They buy a currency when they think the price is low and sell it when the price is higher.
 
 #### Holders
-Some people believe that cryptocurrencies will change the way people do online banking. They believe that eventually, cryptocurrencies like Bitcoin will become common, and used for everything from paying your electricity bill to buying food at a restaurant. By buying now at a discounted price, they think the value of their currency will go up as more people use it.
+Some people believe that cryptocurrencies will change the way people use money. They believe that eventually, cryptocurrencies like Bitcoin will become common, and used for everything from paying your electricity bill to buying food at a restaurant. Holders are buying coins now and planning on keeping them for a long time (because they believe the price will be much higher in a few years).
 
 #### Corporations
-Some cryptocurrencies have drawn interest from large companies; Microsoft, Santander, and JP Morgan (to name a few) are interested in a cryptocurrency called Ethereum. These companies may try to use blockchain technology to make certain operations more efficient and take advantage of the fast transaction speed, resulting in cheaper operational costs.
+Some large companies like Microsoft, Santander, and JP Morgan (to name a few) are interested in cryptocurrencies as well. These companies may try to use blockchain technology to make themselves more efficient and save money by taking advantage of some of the things cryptocurrencies and blockchain can do.
