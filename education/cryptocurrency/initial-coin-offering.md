@@ -1,7 +1,7 @@
 # Initial Coin Offerings (ICOs)
 Many blockchain projects and companies are raising money via cryptocurrency crowdfunding, popularly known as 'initial coin offerings' (or ICOs). Similar to initial public offerings (IPOs) for the stock market, investors provide early funding to a new project or company in exchange for a pre-determined amount of shares (or coins). When the project or company's coin is launched, coins are given out to investors and can be traded on exchanges.
  
-#### How does one participate in an ICO?
+## How do I participate in an ICO?
 Every cryptocurrency does their ICO differently, so the best way to participate is usually to go to the official website; almost every cryptocurrency will list instructions on how to get in on the ICO.
 
 #### Why do people invest in ICOs?
