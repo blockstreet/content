@@ -1,54 +1,55 @@
 [{
-    "topic": "cryptocurrency",
-    "children": [{
-        "topic": "economics",
-        "children": [{
-            "topic": "supply-and-demand"
-        }, {
-            "topic": "inflation-and-deflation"
-        }]
+    "name": "education.cryptocurrency",
+    "title": "Cryptocurrency",
+    "type": "view",
+    "subitems": [{
+        "name": "education.cryptocurrency.economics",
+        "title": "Economics",
+        "type": "view"
     }, {
-        "topic": "exchanges",
-        "children": [{
-            "topic": "limit-orders"
-        }, {
-            "topic": "market-orders"
-        }]
+        "name": "education.cryptocurrency.exchanges",
+        "title": "Exchanges",
+        "type": "view"
     }, {
-        "topic": "legality"
+        "name": "education.cryptocurrency.initial-coin-offering",
+        "title": "Initial Coin Offering",
+        "type": "view"
+    }, {
+        "name": "education.cryptocurrency.legality",
+        "title": "Legality",
+        "type": "view"
+    }, {
+        "name": "education.cryptocurrency.risk",
+        "title": "Risk",
+        "type": "view"
     }]
 }, {
-    "topic": "blockchain",
-    "children": [{
-        "topic": "addresses"
+    "name": "education.blockchain",
+    "title": "Blockchain",
+    "type": "view",
+    "subitems": [{
+        "name": "education.blockchain.digital-signature",
+        "title": "Digital Signature",
+        "type": "view"
     }, {
-        "topic": "decentralization"
+        "name": "education.blockchain.decentralization",
+        "title": "Decentralization",
+        "type": "view"
     }, {
-        "topic": "forking",
-        "children": [{
-            "topic": "soft-vs-hard"
-        }, {
-            "topic": "upgrading"
-        }, {
-            "topic": "rewinding"
-        }]
+        "name": "education.blockchain.immutability",
+        "title": "Immutability",
+        "type": "view"
     }, {
-        "topic": "immutability"
+        "name": "education.blockchain.wallets",
+        "title": "Wallets",
+        "type": "view"
     }, {
-        "topic": "mining",
-        "children": [{
-            "topic": "proof-of-work"
-        }, {
-            "topic": "proof-of-stake"
-        }]
-    }]
-}, {
-    "topic": "cryptography",
-    "children": [{
-        "topic": "digital-signature"
+        "name": "education.blockchain.forking",
+        "title": "Forking",
+        "type": "view"
     }, {
-        "topic": "hashing"
-    }, {
-        "topic": "keys"
+        "name": "education.blockchain.mining",
+        "title": "Mining",
+        "type": "view"
     }]
 }]
