@@ -28,28 +28,24 @@
     "title": "Blockchain",
     "type": "view",
     "subitems": [{
-        "name": "education.blockchain.addresses",
-        "title": "Addresses",
+        "name": "education.blockchain.digital-signature",
+        "title": "Digital Signature",
         "type": "view"
     }, {
         "name": "education.blockchain.decentralization",
         "title": "Decentralization",
         "type": "view"
     }, {
-        "name": "education.blockchain.digital-signature",
-        "title": "Digital Signature",
+        "name": "education.blockchain.immutability",
+        "title": "Immutability",
+        "type": "view"
+    }, {
+        "name": "education.blockchain.wallets",
+        "title": "Wallets",
         "type": "view"
     }, {
         "name": "education.blockchain.forking",
         "title": "Forking",
-        "type": "view"
-    }, {
-        "name": "education.blockchain.hashing",
-        "title": "Hashing",
-        "type": "view"
-    }, {
-        "name": "education.blockchain.immutability",
-        "title": "Immutability",
         "type": "view"
     }, {
         "name": "education.blockchain.mining",
