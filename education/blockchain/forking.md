@@ -5,13 +5,27 @@ When a cryptocurrency decides to update their protocols, sometimes they become i
 
 This seems like a problem: If the blockchain is updated with this new protocol, what happens with all the previous blockchain transactions? What if this new protocol isn't how I think this cryptocurrency should be? Does everyone automatically switch?
 
+## Soft Forks
+A soft fork is when the protocol is updated, but it is backwards compatible with the old protocols.  This is preferable to a hard fork, because it doesn't stop the original chain from validating blocks. In math terms, a soft fork of a cryptocurrency is a **subset**, meaning anything new blocks or rules in the soft fork will work in the original blockchain.
+
+#### Example
+Imagine I own a chain of restaurants, McCryptos: The Original, and my rules for payment say "You're allowed to pay with $100 bills or smaller, Visa cards, or Master cards, but not American Express cards(these payment methods represent a blockchain's **protocol**)."  Now imagine one of my managers decides to open(**fork**) a new McCryptos called McCryptos 2: Electric Boogaloo in a new area, but his payment methods(**protocol**) say "You're allowed to pay with small bills($1, $5, or $10 bills), and Visa cards, but no Master or American Express cards(this is the new fork's **protocol**)."
+
+Any customer that buys food at the new McCryptos 2(the **soft fork**) can only use those payment methods. Dave can buy a burger from McCryptos 2 using a $10 bill just fine.  He could also choose to use that $5 bill at the original McCryptos.  Alice can use a Master card at the original McCryptos, but she can **not** use the Master card at the new McCryptos 2, because the new payment methods are a **subset** of the original, meaning the contain some elements of the original set(**protocol**), but not all, and nothing outside the original set.
+
+The old nodes supporting the original chain will accept all new blocks, because they still fall within protocol rules.
+
 
 ## Hard Forks
 
 When a **hard fork** occurs, you end up with two parallel blockchains. One is the old chain, with the nodes following the original protocol.  The other is the new chain, with nodes following the new set of rules. Whichever chain ends up with more support becomes the "official". A hard fork happens because the new protocol changes are not backwards compatible, so any nodes supporting the original chain see the new blocks/transactions being mined as invalid. This can end up as a very messy process if there isn't a clear majority of users willing to switch to the forked blockchain. If all of the nodes and users don't switch to one fork or the other, the cryptocurrency ends up becoming duplicated, with users unable to create transactions across the forks.  In this case, whichever cryptocurrency fork has the majority userbase becomes the "original" or main currency.  This has happened with Ethereum, due to an exploit in a smart contract allowing a "hacker" to withdraw 70 million USD worth of Ethereum from the DAO. This caused a call for a hard fork, and Ethereum split into Ethereum(ETH) and Ethereum Classic(ETC), with the vast majority of users choosing to follow ETH. You can read more about this particular fork [here](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/).
 
-## Soft Forks
-A soft fork is when the protocol is updated, but it is backwards compatible with the old protocols.  This is preferable to a hard fork, because it doesn't stop the original chain from validating blocks.
+#### Example
+Let's go back to the restaurant example.  Say I still have the original McCryptos with it's original payment methods(**protocols**). One of my managers opens up a new McCryptos, McCryptos 2, but this time, there are more varied payment methods.  Customers can pay with any bill, the owners also accept Canadian currency, Visa, Master, American, Paypal, and you can link your Amazon account and pay through that. These payment methods are a **superset**, meaning they contain all the original payment methods(**protocols**) in addition to more.  This means that the same payments(**blocks**) can not be processed at the original McCryptos(**original blockchain**).
+
+The old nodes will **not** accept blocks from the new fork, because the protocol says the new blocks are invalid.
+
+
 
 
 
