@@ -13,4 +13,4 @@ While new ICOs are launched often, there are very few standards or government re
 #### Where can I find upcoming ICOs?
 Upcoming ICOs can be found on sites such as [ICO Countdown](http://www.icocountdown.com/). Please make sure you research, analyze, and/or speak to members of the company or project launching the ICO before investing.
 
-*Disclaimer: Blockstreet is a blockchain education and cryptocurrency data and news portal. Blockstreet is not a broker/dealer nor an investment advisor and does not give or receive financial advice to others.*
+*Disclaimer: Blockstreet is not a broker/dealer nor an investment advisor and does not give or receive financial advice to others.*
