@@ -11,5 +11,7 @@ Hashing a message means doing a math problem using the message to get an answer 
 A hash is like a fingerprint. Everybody has one, and everyone's is different. If you see a person, it is really easy to make a copy of their fingerprint (just have them press their finger on something). But if you see a fingerprint, it is impossible to create a copy of the person whose fingerprint it is. 
 
 ## Proof of Work
+*Coming soon*
 
 ## Proof of Stake
+*Coming soon*
