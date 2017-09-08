@@ -11,3 +11,6 @@ Luckily, popular exchanges such as [Coinbase](https://support.coinbase.com/custo
 - The European Banking Authority (EBA) has classified Bitcoin as a convertible decentralized virtual currency, but advise European banks not to deal in virtual currencies until regulatory oversight is put in place.
 - The People’s Bank of China (PBoC) has stated plans to launch their own cryptocurrency despite limiting and banning cryptocurrency activities in the past.
 - [The Bitcoin Foundation](https://bitcoinfoundation.org/), [Chamber of Digital Commerce](https://digitalchamber.org/), and other committees have formed to address policy and regulatory action for blockchain and digital currency technology.
+
+
+*All materials have been prepared for general information purposes only. The information presented is not legal advice, is not to be acted on as such, may not be current and is subject to change without notice.*

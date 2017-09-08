@@ -28,3 +28,11 @@ He is prompted for his level of exposure, and he opts for a more technical path,
 The guide begins by explaining Blockchain from a very high level, and continues to iterate through each of the topics that comprise blockchain technology. He learns about addresses, how mining works, public & private key cryptography, and various other technical concepts. He dives deep into each of these topics and completes the blockchain area of the diagram. He is then brought over to the cryptocurrency for an overview of what cryptocurrency is and how it works. Due to his underlying understanding of blockchain he picks it up quickly.
 
 This is where his path ends, and just like the investor is told of the various other topics he should feel free to explore, such as exchanges, and the economics involved with price.
+
+# Formatting
+The following is an explanation of how we format the education section, as to increase consistency and readability.
+- `h1 #` tags are used for the page title exclusively. The page title should be consistent with the name of the navigation link in the left hand navigation.
+- `h2 ##` tags are used for page sections exclusively. These are the different sub-topics that come together to form the main topic. For example **Forking** has two sub-topics, Hard Forks and Soft Forks. These each get their own `h2` tag.
+- `h3 ###` tags are used for different concepts that make up the topic **or** sub-topic, or different areas of detail you would like to cover about the topic **or** sub-topic. For example, "think of it like this" is a `h3` tag because it helps explain the parent topic. The "think of it like this" can apply to both the page topic, and it's sub-topics. There is nothing wrong with going from an `h1` (with an accompanying paragraph) directly to an `h3`.
+- `h4 ####` tags are used both as a list, and to cover a sub-area of detail. Always use an `h3` if possible, but if there are multiple sequenced or related things you need to put in a row (that all have accompanying descriptions), then use an `h4`.
+- No headers should ever be alone, without an accompanying paragraph.
