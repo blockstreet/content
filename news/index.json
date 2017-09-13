@@ -1,5 +1,6 @@
 [{
     "id": "0000-0000-0000",
+    "slug": "blockstreet-launches",
     "headline": "Blockstreet Launches",
     "author": "The Blockstreet Team",
     "date": "2017-06-01",
@@ -8,6 +9,7 @@
     "tag": "General"
 }, {
     "id": "0000-0000-0001",
+    "slug": "omise-go-enjoying-robust-demands",
     "headline": "OmiseGO Enjoying Robust Demands in the Cryptocurrency Marketplace",
     "author": "The Blockstreet Team",
     "date": "09-07-2017",
