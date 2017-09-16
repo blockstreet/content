@@ -1,5 +1,3 @@
-#### A Brave New Currency: Is Basic Attention Token Undervalued?
-    
 When the Basic Attention Token (BAT) first became available for public purchase, it did so in the company of some intimidating rivals. 
  
 Despite competing against a growing number of cryptocurrencies, BAT broke records on the 31st of May, 2017, by selling out in a matter of seconds -- 30 seconds to be exact. The ICO closed 30 seconds after it opened, having sold all of its coins for a grand total of $36 million. Currently however, BAT is valued at slightly under 20~ cents per coin, causing many to question its potential value.
