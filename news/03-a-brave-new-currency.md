@@ -1,9 +1,8 @@
-#### A 'Brave' New Currency:
-Is Basic Attention Token Undervalued?
+#### A Brave New Currency: Is Basic Attention Token Undervalued?
     
-When Basic Attention Token (BAT) first became available for public purchase, it did so in the company of some intimidating rivals. 
+When the Basic Attention Token (BAT) first became available for public purchase, it did so in the company of some intimidating rivals. 
  
-Despite competing against a growing number of cryptocurrencies, BAT broke records on the 31st of May, 2017, by selling out in a matter of seconds--30 seconds to be exact.  The ICO closed 30 seconds after it opened, having sold all of its coins for a grand total of $36 million. Currently however, BAT is valued at slightly under 20~ cents per coin, causing many to question its potential value.
+Despite competing against a growing number of cryptocurrencies, BAT broke records on the 31st of May, 2017, by selling out in a matter of seconds -- 30 seconds to be exact. The ICO closed 30 seconds after it opened, having sold all of its coins for a grand total of $36 million. Currently however, BAT is valued at slightly under 20~ cents per coin, causing many to question its potential value.
 
 To understand its true value, we need to consider why Basic Attention Token was thrust into the spotlight. The secret to its hype is due to the fact that it's more than just a cryptocurrency. It aims to provide a market solution to an increasingly relevant problem in the digital age. The problem is online advertising, and BAT aims to be the solution to a system where almost everyone loses.
 
