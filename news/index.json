@@ -25,4 +25,13 @@
     "image": "lights/lights-13.jpg",
     "file": "03-a-brave-new-currency",
     "tag": "Asset"
+}, {
+    "id": "0000-0000-0003",
+    "slug": "did-the-pirate-bay-go-too-far",
+    "headline": "Did The Pirate Bay go too far in their quest for ad-less revenue?",
+    "author": "The Blockstreet Team",
+    "date": "2017-09-18T13:57:00-04:00",
+    "image": "lights/lights-2.jpeg",
+    "file": "did-the-pirate-bay-go-too-far",
+    "tag": "General"
 }]
