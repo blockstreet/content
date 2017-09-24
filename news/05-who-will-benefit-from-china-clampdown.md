@@ -5,7 +5,7 @@ Chief among these was an increased clampdown on cryptocurrencies from the Chines
 Over a quarter of all Bitcoin transactions as well as a huge proportion of the mining activity happens in China, so whatever the authorities there do has a big effect on the cryptosphere. But despite the price drops, the Chinese clampdown is not bad news for everyone in the industry. The growth of cryptocurrencies has shown that users will work hard to circumvent unwanted government regulation which can benefit new players in the industry. 
 
 #### Alternative exchanges?
-In the aftermath of China's recent announcements, there has been a surge of new users to peer-to-peer platforms like LocalBitcoins. This situation may not last, since there have been conflicting rumours about whether these platforms will be forced to close with the other exchanges. It’s anyone's guess, although based on a report from September 18th it looks likely they will be forced to close.
+In the aftermath of China's recent announcements, there has been a surge of new users to peer-to-peer platforms like LocalBitcoins. This situation may not last, since there have been conflicting rumors about whether these platforms will be forced to close with the other exchanges. It’s anyone's guess, although based on a report from September 18th it looks likely they will be forced to close.
 
 Two things are clear. First, if peer-to-peer exchanges like LocalBitcoins survive the clampdown, they will gain influence and revenue from the aftermath. Expect these peer-to-peer exchanges to take the place of the existing exchanges and get much more exposure, at least in the time after regular exchanges close and before the next iteration of exchanges in China are permitted to start up.
 
