@@ -1,5 +1,5 @@
 [{
-    "id": "0000-0000-0000",
+    "id": "0000-0000-0001",
     "slug": "blockstreet-launches",
     "headline": "Blockstreet Launches",
     "author": "The Blockstreet Team",
@@ -8,7 +8,7 @@
     "file": "01-blockstreet-launches",
     "tag": "General"
 }, {
-    "id": "0000-0000-0001",
+    "id": "0000-0000-0002",
     "slug": "omise-go-enjoying-robust-demands",
     "headline": "OmiseGO Enjoying Robust Demands in the Cryptocurrency Marketplace",
     "author": "The Blockstreet Team",
@@ -17,7 +17,7 @@
     "file": "02-omise-go-enjoying-robust-demands",
     "tag": "Asset"
 }, {
-    "id": "0000-0000-0002",
+    "id": "0000-0000-0003",
     "slug": "a-brave-new-currency",
     "headline": "A Brave New Currency: Is Basic Attention Token Undervalued?",
     "author": "The Blockstreet Team",
@@ -26,21 +26,30 @@
     "file": "03-a-brave-new-currency",
     "tag": "Asset"
 }, {
-    "id": "0000-0000-0003",
+    "id": "0000-0000-0004",
     "slug": "did-the-pirate-bay-go-too-far",
-    "headline": "Did The Pirate Bay go too far in their quest for ad-less revenue?",
+    "headline": "Did The Pirate Bay Go Too Far in Their Quest for Ad-less Revenue?",
     "author": "The Blockstreet Team",
     "date": "2017-09-18T13:57:00-04:00",
     "image": "lights/lights-2.jpeg",
     "file": "04-did-the-pirate-bay-go-too-far",
     "tag": "General"
 }, {
-    "id": "0000-0000-0004",
+    "id": "0000-0000-0005",
     "slug": "who-will-benefit-from-china-clampdown",
-    "headline": "Who will benefit from China's clampdown?",
+    "headline": "Who Will Benefit From China's Clampdown?",
     "author": "The Blockstreet Team",
     "date": "2017-09-20T12:30:00-04:00",
     "image": "lights/lights-5.jpeg",
     "file": "05-who-will-benefit-from-china-clampdown",
+    "tag": "Regulation"
+}, {
+    "id": "0000-0000-0006",
+    "slug": "banks-and-crypto-an-uneasy-relationship",
+    "headline": "Banks and Crypto: An Uneasy Relationship",
+    "author": "The Blockstreet Team",
+    "date": "2017-09-20T12:30:00-04:00",
+    "image": "lights/lights-8.jpeg",
+    "file": "06-banks-and-crypto-an-uneasy-relationship",
     "tag": "Regulation"
 }]
