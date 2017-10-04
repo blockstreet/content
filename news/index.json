@@ -52,4 +52,13 @@
     "image": "lights/lights-8.jpeg",
     "file": "06-banks-and-crypto-an-uneasy-relationship",
     "tag": "Regulation"
+}, {
+    "id": "0000-0000-0007",
+    "slug": "bitcoin-in-ecommerce",
+    "headline": "A comprehensive view of Bitcoin’s advantages and disadvantages in eCommerce",
+    "author": "The Blockstreet Team",
+    "date": "2017-10-04T12:00:00-04:00",
+    "image": "lights/lights-12.jpeg",
+    "file": "07-bitcoin-in-ecommerce",
+    "tag": "General"
 }]
