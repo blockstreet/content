@@ -22,4 +22,4 @@ Despite this, Bitcoin isn’t without some disadvantages. It can cause losses fo
 
 Another potential negative for parties who are interested in selling Bitcoin is the inability to gather consumer data. This however, is often beneficial for the customers. Furthermore, many early adoptions of the technology were found on the dark web, where it’s anonymity provided great benefit, leaving an air of doubt around the technology for legitimate use cases.
 
-By looking at the factors above, it’s apparent that Bitcoin is advantageous for both buyers and sellers, but it’s not without its downsides. While it still needs some more development, its current state is good enough to
+By looking at the factors above, it’s apparent that Bitcoin is advantageous for both buyers and sellers, but it’s not without its downsides. While it still needs some more development, its current state is good enough to do what other currencies have done since the dawn of time — exchange value.
