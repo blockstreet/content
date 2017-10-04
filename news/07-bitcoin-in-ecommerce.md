@@ -2,6 +2,7 @@ The growth of Bitcoin in the last few years has been undoubtedly substantial. De
 
 ### E-commerce
 The role of Bitcoin in E-commerce continues to grow with its increased popularity as a payment alternative. Titans of industries like Microsoft, Rakuten and Steam have started accepting Bitcoin for payment. The emergence of established businesses like OpenBazaar and startups like Rawflood mark the beginning of Bitcoin-based marketplaces.
+
 - This growth has been mainly incentivized by these nine major factors, in no particular order:
 - The promising peer-to-peer nature of transactions which eliminates the need for a central authority
 - The unmatched speed for conducting transactions both locally and globally
