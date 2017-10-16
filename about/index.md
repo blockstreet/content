@@ -1,3 +1,4 @@
+# About Us
 Welcome to Blockstreet. This site was founded by a group of engineers, entrepreneurs and security professionals that are all brought together by a mutual interest in Blockchain technology and its promise to change the world. During our time following and getting involved in the cryptocurrency community, we noticed some things we can improve on.
 
 There are plenty of sites that report cryptocurrency news, show you the latest price ticker, and give you information about existing and upcoming currencies; but none of them do it in a simple, straightforward way.
