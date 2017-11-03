@@ -77,6 +77,15 @@
     "author": "Josh Semedo",
     "date": "2017-11-02T21:30:00-04:00",
     "image": "devcon-security.jpg",
-    "file": "09-devcon-3-day-2",
+    "file": "09-devcon-3-day-2-roundup",
+    "tag": "Coverage"
+}, {
+    "id": "0000-0000-0010",
+    "slug": "devcon-3-conference-day-3-roundup",
+    "headline": "Devcon3 Conference Day 2 Roundup",
+    "author": "Josh Semedo",
+    "date": "2017-11-03T19:10:00-04:00",
+    "image": "devcon-day-3.jpg",
+    "file": "09-devcon-3-day-3-roundup",
     "tag": "Coverage"
 }]
