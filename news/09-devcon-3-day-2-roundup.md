@@ -10,11 +10,11 @@ An interesting quote from Marley Gray with Microsoft: "Everything we do at micro
 
 There were several excellent talks in the much smaller Breakout hall in the afternoon. These included presentations by Manuel Aráoz on "Evolution of Smart Contract Security in the Ethereum Ecosystem", Phil Daian's "Enter the Hydra - an Experimental Approach to Smart Contract Security", Loi Luu's "Oyente", and lastly, Quentin Hibon's "Securify: Not Your Grandma's Smart Contract Verification". All of these talks dealt with security in the smart contract ecosystem.  Oyente is a smart contract analysis tool which uses symbolic logic to check the validity of contracts. Hydra takes an interesting approach, trying to incentivise potential attackers to report security vulnerabilities rather than abuse them.  Manuel Aráoz focused on some common pitfalls Solidity developers run into when creating smart contracts, and some best practices on avoiding them. Securify is an absolutely wonderful webapp where you can simply paste in your smart contract code, and it will analyze where your mistakes are.  A particularly interesting feature of Securify is it's automatic testing: Quentin claims that this means while it may detect false positives, it will not provide false negatives, which means you'll know your code is good to go.
 
-Blockstreet.io will be at devcon3 through the weekend, add us on Linkedin ([Nick](https://linkedin.com/in/nklombardi),  [Josh](https://linkedin.com/in/joshsemedo)) and shoot us a message if you want to meet up!
-
 **Links to projects from article:**
 * Status: https://status.im/
 * Walleth: http://walleth.org/
 * Securify: https://securify.ch
 * Hydra: https://thehydra.io
 * Oyente: https://github.com/melonproject/oyente
+
+*Blockstreet.io will be at devcon3 through the weekend, add us on Linkedin ([Nick](https://linkedin.com/in/nklombardi),  [Josh](https://linkedin.com/in/joshsemedo)) and shoot us a message if you want to meet up!*
