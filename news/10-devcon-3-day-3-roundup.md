@@ -6,21 +6,12 @@ Andy Milenius did a presentation on DappHubb. He started out preaching the Unix 
 
 Raine Revere, Lead Prism Architect at Shapeshift.io, gave a talk aimed at developers, which was split into high-level and low-level patterns for smart contracts. One of the low-level patterns she mentioned was central logging, which is imperative when developers create smart contracts that interact with each other, so you can have sane, readable logging. The three high-level patterns she discussed were Role Analysis, Context Dependence, and Leadership.
 
-
 MetaMask definitely had one of the most entertaining (but also informative and exciting) presentations of Devcon 3 so far. They talked about statistics, such as how they’re nearing 200k downloads of their software, and how at some point they were responsible for 10% of ethereum transactions happening. After Aaron Davis had done a sort of general introduction, a MetaMask employee came out in a dinosaur suit, which received a lot of laughs from the crowd. The last employee, Frankie Pangilinan, announced MetaMascara, which is a way to use MetaMask without having to download the software, and instead you can just include it like a CDN.
 
-
-Links to projects:
-
-MetaMask: https://metamask.io/
-
-DappHub: https://dapphub.com/
-
-ShapeShift.io: https://shapeshift.io/
-
-Mist: https://github.com/ethereum/mist
-
-Solidity: https://github.com/ethereum/solidity
-
-Hudson Jameson: https://hudsonjameson.com/speakingengagements/
-
+**Links to projects**
+* MetaMask: https://metamask.io/
+* DappHub: https://dapphub.com/
+* ShapeShift.io: https://shapeshift.io/
+* Mist: https://github.com/ethereum/mist
+* Solidity: https://github.com/ethereum/solidity
+* Hudson Jameson: https://hudsonjameson.com/speakingengagements/
