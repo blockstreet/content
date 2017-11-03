@@ -16,4 +16,4 @@ MetaMask definitely had one of the most entertaining (but also informative and e
 * Solidity: https://github.com/ethereum/solidity
 * Hudson Jameson: https://hudsonjameson.com/speakingengagements/
 
-Blockstreet will be at devcon 3 through the weekend, add us on Linkedin ([Nick](https://linkedin.com/in/nklombardi),  [Josh](https://linkedin.com/in/joshsemedo)) and shoot us a message if you want to meet up!
+*Blockstreet will be at devcon 3 through the weekend, add us on Linkedin ([Nick](https://linkedin.com/in/nklombardi),  [Josh](https://linkedin.com/in/joshsemedo)) and shoot us a message if you want to meet up!*
