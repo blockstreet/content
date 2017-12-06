@@ -1,18 +1,39 @@
 [{
+    "name": "education.blockchain",
+    "title": "Blockchain",
+    "type": "view",
+    "subitems": [{
+        "name": "education.blockchain.decentralization",
+        "title": "Decentralization",
+        "type": "view"
+    }, {
+        "name": "education.blockchain.immutability",
+        "title": "Immutability",
+        "type": "view"
+    }, {
+        "name": "education.blockchain.digital-signature",
+        "title": "Digital Signature",
+        "type": "view"
+    }, {
+        "name": "education.blockchain.wallets",
+        "title": "Wallets",
+        "type": "view"
+    }, {
+        "name": "education.blockchain.mining",
+        "title": "Mining",
+        "type": "view"
+    }, {
+        "name": "education.blockchain.forking",
+        "title": "Forking",
+        "type": "view"
+    }]
+}, {
     "name": "education.cryptocurrency",
     "title": "Cryptocurrency",
     "type": "view",
     "subitems": [{
         "name": "education.cryptocurrency.economics",
         "title": "Economics",
-        "type": "view"
-    }, {
-        "name": "education.cryptocurrency.exchanges",
-        "title": "Exchanges",
-        "type": "view"
-    }, {
-        "name": "education.cryptocurrency.initial-coin-offering",
-        "title": "Initial Coin Offering",
         "type": "view"
     }, {
         "name": "education.cryptocurrency.legality",
@@ -22,34 +43,13 @@
         "name": "education.cryptocurrency.risk",
         "title": "Risk",
         "type": "view"
-    }]
-}, {
-    "name": "education.blockchain",
-    "title": "Blockchain",
-    "type": "view",
-    "subitems": [{
-        "name": "education.blockchain.digital-signature",
-        "title": "Digital Signature",
+    }, {
+        "name": "education.cryptocurrency.exchanges",
+        "title": "Exchanges",
         "type": "view"
     }, {
-        "name": "education.blockchain.decentralization",
-        "title": "Decentralization",
-        "type": "view"
-    }, {
-        "name": "education.blockchain.immutability",
-        "title": "Immutability",
-        "type": "view"
-    }, {
-        "name": "education.blockchain.wallets",
-        "title": "Wallets",
-        "type": "view"
-    }, {
-        "name": "education.blockchain.forking",
-        "title": "Forking",
-        "type": "view"
-    }, {
-        "name": "education.blockchain.mining",
-        "title": "Mining",
+        "name": "education.cryptocurrency.initial-coin-offering",
+        "title": "Initial Coin Offering",
         "type": "view"
     }]
 }]
