@@ -1,7 +1,10 @@
-The growth of Bitcoin in the last few years has been undoubtedly substantial. Despite the fact that a lot of roadblocks have been encountered on Bitcoin’s road to growth, there are no indications that it will stop anytime soon. While the first Bitcoin adopters were mostly tech enthusiasts, investors, activists and researchers; today Bitcoin is much more widespread. It has enormous potential to remove the biggest inefficiencies in a large number of industries and has caught the eye of many, including billionaire investors and regulators. The most exciting thing is that it's just the beginning, so we don’t really know how Bitcoin will evolve in this complex world of different countries, societies and types of government. The best thing we can do is make an educated guess on how Bitcoin will be used in eCommerce.
+The growth of Bitcoin in the last few years has been undoubtedly substantial. Despite the fact that a lot of roadblocks have been encountered on Bitcoin’s road to growth, there are no indications that it will stop anytime soon. While the first Bitcoin adopters were mostly tech enthusiasts, investors, activists and researchers; today Bitcoin is much more widespread. It has enormous potential to remove the biggest inefficiencies in a large number of industries and has caught the eye of many, including billionaire investors and regulators. 
+
+The most exciting thing is that it's just the beginning, so we don’t really know how Bitcoin will evolve in this complex world of different countries, societies and types of government. The best thing we can do is make an educated guess on how Bitcoin will be used in eCommerce.
 
 ### E-commerce
 The role of Bitcoin in E-commerce continues to grow with its increased popularity as a payment alternative. Titans of industries like Microsoft, Rakuten and Steam have started accepting Bitcoin for payment. The emergence of established businesses like OpenBazaar and startups like Rawflood mark the beginning of Bitcoin-based marketplaces.
+
 - This growth has been mainly incentivized by these nine major factors, in no particular order:
 - The promising peer-to-peer nature of transactions which eliminates the need for a central authority
 - The unmatched speed for conducting transactions both locally and globally
@@ -19,4 +22,4 @@ Despite this, Bitcoin isn’t without some disadvantages. It can cause losses fo
 
 Another potential negative for parties who are interested in selling Bitcoin is the inability to gather consumer data. This however, is often beneficial for the customers. Furthermore, many early adoptions of the technology were found on the dark web, where it’s anonymity provided great benefit, leaving an air of doubt around the technology for legitimate use cases.
 
-By looking at the factors above, it’s apparent that Bitcoin is advantageous for both buyers and sellers, but it’s not without its downsides. While it still needs some more development, its current state is good enough to
+By looking at the factors above, it’s apparent that Bitcoin is advantageous for both buyers and sellers, but it’s not without its downsides. While it still needs some more development, its current state is good enough to do what other currencies have done since the dawn of time — exchange value.
