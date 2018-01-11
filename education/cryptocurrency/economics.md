@@ -1,5 +1,5 @@
 # Economics
-The point of cryptocurrencies is to be just like government issued money (fiat, like the US dollar), except that there is no one group that is in control of the money (which is why we call it decentralized). The main things that affect the price of cryptocurrencies are supply & demand, and inflation & deflation.
+Some cryptocurrencies aim to be just like government issued money (fiat, like the US dollar), except that there is no one group that is in control of the money (which is why we call it decentralized). The main things that affect the price of cryptocurrencies are supply & demand, and inflation & deflation.
 
 ## Supply & Demand
 The strongest forces that control the value of something are supply & demand. Supply is how much of something is available, and demand is how much people want to buy it. If something has a high supply or a low demand, its price will be low. If something has a low supply or a high demand, its price will be high.
