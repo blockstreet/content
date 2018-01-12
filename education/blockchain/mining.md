@@ -2,7 +2,7 @@
 Mining is how new transactions get added to a blockchain. Something has to be done in order to add transactions to the chain, and depending on how the chain is set up, there are a few different ways this can happen.
 
 ### Think of it like this
-In order to make sure that transactions are secure, somebody has to so a little bit of extra work before adding a transaction to the chain.
+In order to make sure that transactions are secure, somebody has to do a little bit of extra work before adding a transaction to the chain.
 
 ## How does it work?
 
