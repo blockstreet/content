@@ -97,4 +97,13 @@
     "image": "lights/lights-12.jpeg",
     "file": "11-cryptocurrency-and-taxation",
     "tag": "Tax"
+}, {
+    "id": "0000-0000-0012",
+    "slug": "raiblocks-the-feeless-currency",
+    "headline": "RaiBlocks, the Feeless Currency",
+    "author": "Nick Lombardi",
+    "date": "2018-01-16T11:30:00-04:00",
+    "image": "lights/lights-12.jpeg",
+    "file": "12-raiblocks-the-feeless-currency",
+    "tag": "Asset"
 }]
