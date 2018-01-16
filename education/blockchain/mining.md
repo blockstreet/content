@@ -2,9 +2,9 @@
 Mining is how new transactions get added to a blockchain. Something has to be done in order to add transactions to the chain, and depending on how the chain is set up, there are a few different ways this can happen.
 
 ### Think of it like this
-In order to make sure that transactions are secure, somebody has to so a little bit of extra work before adding a transaction to the chain.
+In order to make sure that transactions are secure, somebody has to do a little bit of extra work before adding a transaction to the chain.
 
-### How does it work?
+## How does it work?
 
 Well, it's a little complicated to explain the specifics, so here's a simplified version. For the blockchain to work, someone needs to be writing all the transactions down, and that's where miners come in. The miners have computers that do very difficult and complex math problems that take a long time to solve. They all attempt the same problem at the same time; when one of the miner's computers solves the problem, the rest of the miners verify it, and a block of transactions is added to the blockchain. Because mining takes a lot of computational power and electricity, it costs money to do. To reward them, miners get to add a transaction onto the block they solve, giving themselves a certain amount of cryptocurrency. This is a standard amount, and over time the reward gets smaller and smaller. For many cryptocurrencies, this is the only way new cryptocurrencies get introduced.
 

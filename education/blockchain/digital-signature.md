@@ -1,8 +1,8 @@
 # Digital Signature
-A digital signature is a math problem that your computer can use on a message before you send it so that whoever gets the message knows that it was from you.
+A digital signature is a way to show that a document or message is authentic. It shows that certain person authorized something, it can from that person, and the message was not changed.
 
 ### Think of it like this
-A digital signature is for computers what a hand-written signature is for paper; it shows that a person is who they say they are.
+A digital signature is for computers what a hand-written signature is for paper, except more secure; it shows that a person is who they say they are.
 
 ## Public and Private Keys
 Private and public keys are the building blocks for digital signatures, and their names give us hints about how they are used. 
