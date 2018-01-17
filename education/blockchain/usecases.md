@@ -17,7 +17,7 @@ Having a global, digital currency is an interesting idea. There are thousands of
 ## Why is blockchain technology so new and different?
 Blockchains allow people to store information in a distributed, permanent, immutable ledger. This has led to innovations like Swarm, a censorship-resistant online file storage system. A system where content is put up and can not be removed by any centralized authority has very powerful implications; people with money or power couldn't bully the owner into taking down content that doesn't agree with them. A potential real-world use case for this would be a whistleblower putting up sensitive documents that prove his employer is doing something illegal. Having it permanently recorded ensures that the employer couldn't pay someone to take it down, like they could for a centralized file storage site with one owner.
 
-Another potential use case could be for supply chain management; for example, say you wanted to purchase some fresh, organic strawberries from california, but you live on the other side of the US. You go into your local supermarket, and there's a box of strawberries that say "certified organic from California". How can you know that these strawberries came from where they said?
+Another potential use case could be for supply chain management; for example, say you wanted to purchase some fresh, organic strawberries from California, but you live on the other side of the US. You go into your local supermarket, and there's a box of strawberries that say "certified organic from California". How can you know that these strawberries came from where they said?
 
 If you want to buy a new cellphone; how can you tell that it's legitimate, and not a knockoff? Was it built in a facory that uses child labor?
 
