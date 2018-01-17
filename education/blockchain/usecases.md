@@ -4,15 +4,15 @@ What are some of the use cases for Blockchain technology? You've probably heard 
 ### Blockchain innovation
 Having a global, digital currency is an interesting idea. There are thousands of applications for blockchain technology which are based on improving current working systems:
 
--Ripple, which is designed for peer-to-peer debt transfer
+* **Ripple**, which is designed for peer-to-peer debt transfer
 
--Monero, a privacy coin with a focus on anonymous transactions
+* **Monero**, a privacy coin with a focus on anonymous transactions
 
--Tether, a cryptocurrency aimed at being equal to the USD, mostly used for converting to other cryptocurrencies
+* **Tether**, a cryptocurrency aimed at being equal to the USD, mostly used for converting to other cryptocurrencies
 
--Ethereum, a cryptocurrency which supports Turing-complete smart contracts, enabling users to do things such as trustless auctions
+* **Ethereum**, a cryptocurrency which supports Turing-complete smart contracts, enabling users to do things such as trustless auctions
 
--KodakCoin, a coin which aims to allow photographers to have more control licensing their photos.
+* **KodakCoin**, a coin which aims to allow photographers to have more control licensing their photos.
   
 ## Why is blockchain technology so new and different?
 Blockchains allow people to store information in a distributed, permanent, immutable ledger. This has led to innovations like Swarm, a censorship-resistant online file storage system. A system where content is put up and can not be removed by any centralized authority has very powerful implications; people with money or power couldn't bully the owner into taking down content that doesn't agree with them. A potential real-world use case for this would be a whistleblower putting up sensitive documents that prove his employer is doing something illegal. Having it permanently recorded ensures that the employer couldn't pay someone to take it down, like they could for a centralized file storage site with one owner.
