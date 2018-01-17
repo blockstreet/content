@@ -26,6 +26,10 @@
         "name": "education.blockchain.forking",
         "title": "Forking",
         "type": "view"
+    }, {
+        "name": "education.blockchain.usecases",
+        "title": "Use Cases",
+        "type": "view"
     }]
 }, {
     "name": "education.cryptocurrency",
