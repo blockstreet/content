@@ -27,7 +27,7 @@
         "title": "Forking",
         "type": "view"
     }, {
-        "name": "education.blockchain.usecases",
+        "name": "education.blockchain.use-cases",
         "title": "Use Cases",
         "type": "view"
     }]
