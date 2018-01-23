@@ -1,0 +1,34 @@
+[{
+    "id": "nlombardi",
+    "name": "Nick Lombardi",
+    "description": "Hi! My name is Nick Lombardi, and I’m a founder at Blockstreet.io, a non-profit, open-source blockchain news, price, and education site. If you are interested in learning more about Cryptocurrency & Blockchain technology, checkout out our <a href=\"/education\">education section</a> where we explain complex topics in a simple way for a non-technical audience.",
+    "profile": "https://avatars0.githubusercontent.com/u/6503504?s=460&v=4",
+    "departments": ["Project Management", "Engineering"],
+    "twitter": "https://twitter.com/nkmlombardi",
+    "medium": "https://medium.com/@nkmlombardi",
+    "linkedin": "https://www.linkedin.com/in/nklombardi",
+    "github": "https://github.com/nkmlombardi",
+    "angel-list": "https://angel.co/nlombardi"
+}, {
+    "id": "jsemedo",
+    "name": "Josh Semedo",
+    "description": "Hey, my name is Josh Semedo, and I’m a founder at Blockstreet.io, a non-profit, open-source blockchain news, price, and education site. If you are interested in learning more about Cryptocurrency & Blockchain technology, checkout out our <a href=\"/education\">education section</a> where we explain complex topics in a simple way for a non-technical audience.",
+    "profile": "https://avatars2.githubusercontent.com/u/7926950?s=460&v=4",
+    "departments": ["Content", "News"],
+    "twitter": false,
+    "medium": false,
+    "linkedin": "https://www.linkedin.com/in/josh-semedo-9a7498128",
+    "github": "https://github.com/Suhmedoh",
+    "angel-list": false
+}, {
+    "id": "kconley",
+    "name": "Kevin Conley",
+    "description": false,
+    "profile": "https://avatars2.githubusercontent.com/u/14863147?s=460&v=4",
+    "departments": ["Content"],
+    "twitter": false,
+    "medium": false,
+    "linkedin": "https://www.linkedin.com/in/conleykevin",
+    "github": "https://github.com/kmanc",
+    "angel-list": false
+}]
