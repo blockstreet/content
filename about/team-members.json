@@ -8,7 +8,7 @@
     "medium": "https://medium.com/@nkmlombardi",
     "linkedin": "https://www.linkedin.com/in/nklombardi",
     "github": "https://github.com/nkmlombardi",
-    "angel-list": "https://angel.co/nlombardi"
+    "angel_list": "https://angel.co/nlombardi"
 }, {
     "id": "jsemedo",
     "name": "Josh Semedo",
@@ -19,7 +19,7 @@
     "medium": false,
     "linkedin": "https://www.linkedin.com/in/josh-semedo-9a7498128",
     "github": "https://github.com/Suhmedoh",
-    "angel-list": false
+    "angel_list": false
 }, {
     "id": "kconley",
     "name": "Kevin Conley",
@@ -30,7 +30,7 @@
     "medium": false,
     "linkedin": "https://www.linkedin.com/in/conleykevin",
     "github": "https://github.com/kmanc",
-    "angel-list": false
+    "angel_list": false
 }, {
     "id": "socratesn",
     "name": "Socrates Nguyen",
@@ -41,5 +41,5 @@
     "medium": false,
     "linkedin": "https://www.linkedin.com/in/conleykevin",
     "github": "https://github.com/kmanc",
-    "angel-list": false
+    "angel_list": false
 }]
