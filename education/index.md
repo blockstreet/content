@@ -8,18 +8,18 @@ This guide is broken into two main parts: Cryptocurrency and Blockchain. The Cry
 The left hand navigation lists the two main parts of the guide and all of the topics related to each as individual pages. We suggest navigating top to bottom through the list. Every page in the education guide you visit will start out with an overview of the topic. If the topic isn't something that interests you, or you want to revisit it later, then you can just read the overview and continue to another page in the guide.
 
 # Blockchain Technology
-[Index](blockchain/index.md)
-[Decentralization](blockchain/decentralization.md)
-[Immutability](blockchain/immutability.md)
-[Digital Signature](blockchain/digital-signature.md)
-[Wallets](blockchain/wallets.md)
-[Mining](blockchain/mining.md)
-[Forking](blockchain/forking.md)
-[Use Cases](blockchain/use-cases.md)
+- [Index](blockchain/index.md)
+- [Decentralization](blockchain/decentralization.md)
+- [Immutability](blockchain/immutability.md)
+- [Digital Signature](blockchain/digital-signature.md)
+- [Wallets](blockchain/wallets.md)
+- [Mining](blockchain/mining.md)
+- [Forking](blockchain/forking.md)
+- [Use Cases](blockchain/use-cases.md)
 
 # Cryptocurrency
-[Index](cryptocurrency/index.md)
-[Legality](cryptocurrency/legality.md)
-[Risk](cryptocurrency/risk.md)
-[Exchanges](cryptocurrency/exchanges.md)
-[Initial Coin Offering](cryptocurrency/initial-coin-offering.md)
+- [Index](cryptocurrency/index.md)
+- [Legality](cryptocurrency/legality.md)
+- [Risk](cryptocurrency/risk.md)
+- [Exchanges](cryptocurrency/exchanges.md)
+- [Initial Coin Offering](cryptocurrency/initial-coin-offering.md)
